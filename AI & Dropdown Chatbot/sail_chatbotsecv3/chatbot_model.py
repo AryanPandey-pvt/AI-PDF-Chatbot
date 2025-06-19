@@ -27,7 +27,7 @@ nltk.download('stopwords', quiet=True)
 nltk.download('wordnet', quiet=True)
 
 # Use environment variable for API key
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("key")
 
 # Initialize conversation context with thread safety
 conversation_contexts = {}
@@ -172,7 +172,7 @@ Answer:
         # Use the current OpenAI API format
         try:
             from openai import OpenAI
-            client = OpenAI(api_key=os.getenv("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"))
+            client = OpenAI(api_key=os.getenv("key"))
 
             response = client.chat.completions.create(
                 model="gpt-3.5-turbo",
