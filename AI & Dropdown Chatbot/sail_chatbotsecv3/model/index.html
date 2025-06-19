@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAIL Chatbot</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="header-left">
+                    <div class="logo-container">
+                        <div class="logo-placeholder">
+                            <i class="fas fa-anchor"></i>
+                        </div>
+                    </div>
+                    <div class="header-text">
+                        <h1>SAIL Chatbot</h1>
+                        <p>Smart AI Learning Assistant</p>
+                    </div>
+                </div>
+                <button class="logout-btn" onclick="handleLogout()">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span>Logout</span>
+                </button>
+            </div>
+        </header>
+
+        <div class="main-container">
+            <!-- Chat Mode Selector -->
+            <div class="chat-mode-card">
+                <div class="chat-mode-content">
+                    <label for="chatMode">Chat Mode:</label>
+                    <select id="chatMode" onchange="handleChatModeChange()">
+                        <option value="normal">Normal Chat</option>
+                        <option value="pcp">PCP Knowledge Base</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Chat Container -->
+            <div class="chat-container">
+                <!-- Messages Area -->
+                <div class="messages-area" id="messagesArea">
+                    <!-- Messages will be dynamically added here -->
+                </div>
+
+                <!-- Input Area -->
+                <div class="input-area">
+                    <!-- Voice Recording Indicator -->
+                    <div class="recording-indicator" id="recordingIndicator" style="display: none;">
+                        <div class="recording-dot"></div>
+                        <span>Recording...</span>
+                        <canvas id="waveformCanvas" width="200" height="40"></canvas>
+                    </div>
+
+                    <!-- Dropdown Options -->
+                    <div class="dropdown-container" id="dropdownContainer" style="display: none;">
+                        <p>Please select an option:</p>
+                        <div class="dropdown-controls">
+                            <select id="optionsSelect">
+                                <option value="">Choose an option...</option>
+                            </select>
+                            <button class="select-btn" onclick="handleDropdownSelect()">Select</button>
+                        </div>
+                    </div>
+
+                    <!-- Text Input with Controls -->
+                    <div class="input-controls">
+                        <input
+                            type="text"
+                            id="userInput"
+                            placeholder="Type your message or use voice..."
+                            onkeypress="handleKeyPress(event)"
+                        >
+                        <button class="mic-btn" id="micBtn" onclick="handleMicClick()">
+                            <i class="fas fa-microphone"></i>
+                        </button>
+                        <button class="send-btn" onclick="handleSendMessage()">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+
+                    <!-- Feedback -->
+                    <div class="feedback-container" id="feedbackContainer" style="display: none;">
+                        <span>Was this response helpful?</span>
+                        <button class="feedback-btn positive" onclick="handleFeedback(true)">
+                            <i class="fas fa-thumbs-up"></i>
+                            Yes
+                        </button>
+                        <button class="feedback-btn negative" onclick="handleFeedback(false)">
+                            <i class="fas fa-thumbs-down"></i>
+                            No
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

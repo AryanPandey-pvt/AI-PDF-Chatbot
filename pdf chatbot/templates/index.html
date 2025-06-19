@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SAIL PDF Chatbot Launcher</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    /* === Base === */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(-45deg, #e0f7fa, #f9f9f9, #fffaf4, #dceefb);
+      background-size: 400% 400%;
+      animation: backgroundShift 10s ease infinite;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    @keyframes backgroundShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .container {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(12px);
+      border-radius: 20px;
+      padding: 40px;
+      max-width: 600px;
+      width: 90%;
+      text-align: center;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+      animation: fadeInUp 0.6s ease-out;
+    }
+
+    h1 {
+      font-size: 2rem;
+      color: #007acc;
+      margin-bottom: 10px;
+      animation: dropFade 0.7s ease-in;
+    }
+
+    @keyframes dropFade {
+      0% {
+        transform: translateY(-30px);
+        opacity: 0;
+      }
+      100% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    .subtext {
+      font-size: 0.95rem;
+      color: #444;
+      margin-bottom: 25px;
+      opacity: 0.8;
+    }
+
+    .form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+
+    select {
+      padding: 12px 16px;
+      border-radius: 12px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+      width: 80%;
+      max-width: 400px;
+      background-color: #fcfcfc;
+      transition: 0.3s;
+      box-shadow: inset 0 2px 5px rgba(0,0,0,0.05);
+    }
+
+    select:focus {
+      border-color: #007acc;
+      outline: none;
+      box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+    }
+
+    button {
+      padding: 12px 28px;
+      font-size: 16px;
+      font-weight: bold;
+      background: linear-gradient(145deg, #007acc, #005f9e);
+      color: #fff;
+      border: none;
+      border-radius: 14px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 6px 16px rgba(0, 123, 255, 0.3);
+    }
+
+    button:hover {
+      background: linear-gradient(145deg, #005f9e, #003f7f);
+      transform: scale(1.03);
+      box-shadow: 0 10px 25px rgba(0, 123, 255, 0.4);
+    }
+
+    .iframe-container {
+      margin-top: 30px;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+      animation: fadeIn 1s ease-out;
+    }
+
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(40px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Optional animated corner icons */
+    .corner-icon {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      font-size: 24px;
+      color: #007acc88;
+      animation: pulse 2s infinite ease-in-out;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.15); opacity: 0.7; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+
+    /* Responsive tweak */
+    @media (max-width: 600px) {
+      iframe {
+        height: 400px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="corner-icon">📘</div>
+    <h1>🤖 SAIL PDF Chatbot Launcher</h1>
+    <div class="subtext">Select a document to chat with its brain 📄🧠</div>
+
+    <form method="POST" class="form">
+      <select name="bot" required>
+        {% for bot in bots %}
+          <option value="{{ bot }}">{{ bot }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit">🚀 Launch</button>
+    </form>
+
+    {% if iframe_url %}
+      <div class="iframe-container">
+        <iframe src="{{ iframe_url }}"></iframe>
+      </div>
+    {% endif %}
+  </div>
+</body>
+</html>

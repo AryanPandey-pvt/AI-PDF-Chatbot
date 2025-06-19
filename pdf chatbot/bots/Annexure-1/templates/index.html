@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SAIL Smart PDF Chatbot for Annexure-1</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="icon" href="{{ url_for('static', filename='sail_logo.png') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="navbar">
+
+    <img src="{{ url_for('static', filename='sail_logo.png') }}" alt="SAIL Logo" class="logo">
+    <h1>SAIL Smart PDF Chatbot for Annexure-1</h1>
+  </div>
+
+  <div class="chat-container">
+    <form method="POST" class="input-form">
+      <input type="text" name="question" placeholder="Ask about clause 2.4.1 or type a question..." required>
+      <button type="submit">Ask</button>
+    </form>
+
+    <form method="POST" class="summarize-form">
+      <input type="hidden" name="summarize" value="1">
+      <button type="submit" class="summarize-button">📄 Summarize Document</button>
+    </form>
+
+    {% if suggestions %}
+      <div class="suggestions">
+        <h4>Did you mean:</h4>
+        <ul>
+          {% for s in suggestions %}
+            <li>{{ s }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
+    <div class="chat-box">
+  {% for q, a in history %}
+    <div class="chat-entry">
+      <p><strong>You:</strong> {{ q }}</p>
+      <p><strong>Bot:</strong> {{ a|safe }}</p>
+    </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+  <footer class="footer">
+
+    <img src="{{ url_for('static', filename='bold-logo.png') }}" alt="Bold Logo" class="logo"
+    >
+
+          © Copyright 2025 SAIL , all rights reserved
+  </footer>
+</body>
+</html>

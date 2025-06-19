@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(145deg, #71deff, #2c2c2c);
+    color: #fff;
+
+    overflow: hidden;
+    overflow-y: auto; /* ✅ allows vertical scroll */
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(10px);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-header img {
+    width: 40px;
+    height: 40px;
+}
+
+.logout-container .btn {
+    background: #ff4b5c;
+    color: white;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s;
+   text-decoration: none;
+}
+.logout-container .pdf-btn{
+    background: #ef8f4b;
+    color: white;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s;
+   text-decoration: none;
+}
+
+.logout-container .btn:hover {
+    background: #e84250;
+}
+
+.chat-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+
+    /* ✅ these lines ensure inner scrolling works */
+    max-height: calc(100vh - 220px);
+    overflow-y: auto;
+}
+
+
+.user-message,
+.bot-message {
+    padding: 10px 14px;
+    border-radius: 18px;
+    max-width: 75%;
+    animation: fadeIn 0.4s ease-in-out;
+    line-height: 1.5;
+}
+
+.user-message {
+    align-self: flex-end;
+    background: #4e9af1;
+    color: white;
+}
+
+.bot-message {
+    align-self: flex-start;
+    background: #3a3f51;
+    color: #dcdcdc;
+}
+
+.chat-input {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+#user-input {
+    flex-grow: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.btn {
+    background: #0dcaf0;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 16px;
+    color: black;
+    cursor: pointer;
+    transition: background 0.2s;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #31d2f2;
+}
+
+#dropdown-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#options-dropdown {
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 8px;
+    background: #202124;
+    color: white;
+    border: 1px solid #555;
+}
+
+.feedback-container {
+    justify-content: center;
+    margin-top: 10px;
+    display: flex;
+}
+
+.feedback-btn {
+    background: #202124;
+    color: white;
+    border: 1px solid #444;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin: 0 6px;
+    transition: background 0.3s;
+}
+
+.feedback-btn:hover {
+    background: #444;
+}
+
+.feedback-thanks {
+    text-align: center;
+    font-style: italic;
+    color: #4ade80;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.voice-input {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.mic-button {
+    font-size: 24px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    background-color: #20c997;
+    color: #fff;
+    animation: pulse 2s infinite;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(32, 201, 151, 0.7); }
+    70% { box-shadow: 0 0 0 12px rgba(32, 201, 151, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(32, 201, 151, 0); }
+}
+.pdf-btn {
+    background: #ef8f4b;
+    color: #8bc3d5;
+    margin-left: 10px;
+  margin-right: 100px;
+}
+
+.pdf-btn:hover {
+    background: #a6490b;
+}

@@ -1,0 +1,1419 @@
+{
+  "1.0": {
+    "title": "Introduction 5",
+    "content": "",
+    "subheadings": {}
+  },
+  "2.0": {
+    "title": "Raising of Indents 5",
+    "content": "",
+    "subheadings": {
+      "2.2": {
+        "title": "For Purchase of Materials 6",
+        "content": "For Job/Service Contracts which also include Operational Contracts, Handling,\n2.3 7\nConversion, Hiring, Consultancy, Works, etc.",
+        "subsubheadings": {}
+      },
+      "2.4": {
+        "title": "Estimated Value 8",
+        "content": "",
+        "subsubheadings": {}
+      }
+    }
+  },
+  "3.0": {
+    "title": "Scrutiny of Indents/Proposals 9",
+    "content": "",
+    "subheadings": {}
+  },
+  "4.0": {
+    "title": "Action on Indent by MM Dept./Contract Cell/ Contracting Department 11",
+    "content": "",
+    "subheadings": {}
+  },
+  "5.0": {
+    "title": "Mode of Tenderlng 12",
+    "content": "",
+    "subheadings": {
+      "5.2": {
+        "title": "Open Tender/ Global Tender 12",
+        "content": "5 .3 L imited Tender Enquiry 13",
+        "subsubheadings": {}
+      },
+      "5.4": {
+        "title": "Single Tender Enquiry 15",
+        "content": "",
+        "subsubheadings": {
+          "5.4.1": {
+            "title": "Single Tender Proprietary (STP} Enquiry 15",
+            "content": ""
+          },
+          "5.4.2": {
+            "title": "Single Tender Non-Propr ietary (STNP) Enquiry 15",
+            "content": ""
+          }
+        }
+      },
+      "5.5": {
+        "title": "Repeat Orders 15",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "5.6": {
+        "title": "Rate Contract (Own) 16",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "5.7": {
+        "title": "Procurement on GeM 16",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "5.8": {
+        "title": "Emergency Purchase/ Job Contract 16",
+        "content": "",
+        "subsubheadings": {}
+      }
+    }
+  },
+  "6.0": {
+    "title": "Invitation to Tender 17",
+    "content": "",
+    "subheadings": {
+      "6.14": {
+        "title": "Considerationof Agents 19",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "6.15": {
+        "title": "Integrity Pact 19",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "6.16": {
+        "title": "Tender Documents 20",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "6.17": {
+        "title": "Methods for Calling of Tenders 20",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "6.18": {
+        "title": "Expression of Interest 21",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "6.19": {
+        "title": "Pre Bid Discussions / Meetings 21",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "6.20": {
+        "title": "Constitution of Tender Committee 22",
+        "content": "",
+        "subsubheadings": {}
+      }
+    }
+  },
+  "7.0": {
+    "title": "Receipt and Opening of Offers 23",
+    "content": "",
+    "subheadings": {
+      "7.29": {
+        "title": "Return of Unopened Price Bids 26",
+        "content": "",
+        "subsubheadings": {}
+      }
+    }
+  },
+  "8.0": {
+    "title": "Earnest Money Deposit (EMO) 26",
+    "content": "",
+    "subheadings": {
+      "8.3": {
+        "title": "Acceptable Modes of EMO /SD/ PG 27",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "8.4": {
+        "title": "Return of Earnest Money Deposit 27",
+        "content": "",
+        "subsubheadings": {}
+      }
+    }
+  },
+  "9.0": {
+    "title": "Scrutiny of Quotations 28",
+    "content": "9 .1 Sing le Part Quotations 28\n9.2 2/3Part Quotations 28",
+    "subheadings": {
+      "9.4": {
+        "title": "Opening of Price Bids 29",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "9.5": {
+        "title": "Comparative Statement of Price S.ids 30",
+        "content": "10 .0 Purchase/Contract Proposal 30\nContents\nClause Subject Page",
+        "subsubheadings": {}
+      }
+    }
+  },
+  "11.0": {
+    "title": "Price Negotiations 33",
+    "content": "",
+    "subheadings": {}
+  },
+  "12.0": {
+    "title": "Trial Purchase/Work Order 33",
+    "content": "",
+    "subheadings": {}
+  },
+  "13.0": {
+    "title": "Issue of order for Purchase/Job c ntract 34",
+    "content": "",
+    "subheadings": {
+      "13.7": {
+        "title": "Posting of Contract Details 35",
+        "content": "",
+        "subsubheadings": {}
+      }
+    }
+  },
+  "14.0": {
+    "title": "Extension of Delivery / Contract Period and Liquidated Damages 35",
+    "content": "",
+    "subheadings": {}
+  },
+  "15.0": {
+    "title": "Amendments to Purchase/ Contract Order 35",
+    "content": "",
+    "subheadings": {}
+  },
+  "16.0": {
+    "title": "Payment Terms 35",
+    "content": "",
+    "subheadings": {}
+  },
+  "17.0": {
+    "title": "Taxes 36",
+    "content": "",
+    "subheadings": {}
+  },
+  "18.0": {
+    "title": "Cancellation of Purchase Order / Contract and Risk Purchase 36",
+    "content": "",
+    "subheadings": {}
+  },
+  "19.0": {
+    "title": "Vendor Development 37",
+    "content": "",
+    "subheadings": {}
+  },
+  "20.0": {
+    "title": "Closure of Contract 38",
+    "content": "",
+    "subheadings": {}
+  },
+  "21.0": {
+    "title": "Price Discovery through Reverse Auction (RA) 38",
+    "content": "",
+    "subheadings": {}
+  },
+  "22.0": {
+    "title": "Banning of Suppliers / Contractors 38",
+    "content": "",
+    "subheadings": {}
+  },
+  "23.0": {
+    "title": "Procedure for Small Value Purchases of Materials 38",
+    "content": "",
+    "subheadings": {}
+  },
+  "24.0": {
+    "title": "Procedure for Small Value Job/Service Contracts 40",
+    "content": "",
+    "subheadings": {}
+  },
+  "25.0": {
+    "title": "General 41",
+    "content": "Format for Undertaking 42\nJ bbreviations Used\nAMR . Addition, Modification and Replacement LCNS . La n de d Cost Net of Set Off\nAP . Automatic Procurement LO - Liqu idated Damages\nATC . Additional Terms & Conditions LOA - Letter of Accepta nce\nBG - Bank Guarantee LPP - La st Purchase Price\n- .\nBIS Bureau of Indian Standards LTE Limited Tender Enquiry\nCA - Competent Authority MIi - Make in India\nCEC . Commercial Evaluation Committee MM - Materials Management\nCPP . Central Public Procurement MSE - M icro & Small Enterprise\nCTE . Chief Technical Examiner NIT - No tice Inviting Tender\neve . Central Vigilance Commission OEM - Original Equipment Manufacturer\ncvo . Chief Vigilance Officer OES - Original Equ ipment Supplier\nDPIIT - Deptt. of Promotion of Industry & Internal Trade OTE . Open Tender Enquiry\nDOP . Delegation of Powers PAN - Permanent Account Number\nORO . Direct Reporting Officer PGB - Performance Guarantee Bond\nEMO - Earnest Money Deposit PO - Purchase Order\nEOI - Expression of Interest PSU . Public Sector Units\nEPS - Enterprise Procurement System QCBS - Quality and Cost Based Selection\nERP . Enterprise Resource Planning RA - Reverse Auction\nFDR - F ixed Depos it Receipt RBI . Reserve Bank of India\nFIFO - First fn First Out RFQ . Request for Quotation\nGARN . Goods Acceptance/Rejection Note SBO . Standard Bidding Document\n. .\nGC GuaranteeCertificate SRM Supplier Relationship Management\nGCC - General Conditions of Contract STE . Single Tender Enquiry\nGeM . Government e-Marketpiace TC . Tender Committee I Test Certificate\nGST . Goods & Service Tax TEC - Te chnical Evaluation Committee\nGOI . Government of India TOD - Tender Opening Date\nHOMM . Head of Material Management TOR - Terms of Reference\nHOD - Head of Department URC - Ud yam Registration Certificate\nHOP - Head of Projects URL - Un ifo rm Resource Locater\nIEM - Indepe nde n t E xternal Monitor VAT - Value Added Tax\nIPSS - Inter Plant Steel Standards voe . Vendor Development Cell\nISO - Int ernational Organisation for Standardisation WC . Warranty Certificate\nLC - Letter of Credit/ Local Content WO . Work Order\nLCN!TC - Landed Cost Net of Input Tax Credit\n....\n1 . 0. INTRODUCTION",
+    "subheadings": {
+      "1.1": {
+        "title": "The objective of the Purchase / Contract Procedure is to ensure transparency , fairness,",
+        "content": "uniformity, competition, economy, efficiency and accountability in the\nprocuremen t/contract/tendering process across SAIL Plants/ Units.",
+        "subsubheadings": {}
+      },
+      "1.2": {
+        "title": "The Purchase / Contract Procedure - 2024 (PCP·24) has been aligned with reference to the",
+        "content": "Manual for Procurement of Goods Manual for Procurement of Consultancy & Other Services\nand Manual for Procurement of Works issued by Department of Expenditure (DoE}, Ministry of\nFinance as per CVC directive 022NGU032 dated 11.07.2022 and has been finalized after in\ndepth deliberations with Materials Management, Contract Cell, Vigilance, Projects and Finance.",
+        "subsubheadings": {}
+      },
+      "1.3": {
+        "title": "The procedure is applicable to cill purchases /contracts for Goods or Services or Works and Job",
+        "content": "Contracts/ Project Cases/Conversion and Outsourcing of all types, unless specified otherwise.\nFor Import of Coal and Coke, \"SAIL Policy for Import of Coal & Coke\" shall be followed. For\nProjects cases, in case of conflict between provision of Purchase/Contract Procedure (PCP}\nand Standard Bidding Document (SBD), the provisions of SBD shall prevail.",
+        "subsubheadings": {}
+      },
+      "1.4": {
+        "title": "Deviations to the PCP should be rare. In exceptional cases, deviation may be permitted for",
+        "content": "recorded reasons with the specific approval of respective Director/ Director In-charge of the\nPlant/Unit. The deviation shall be reported to CVO through ACVO of the Plant/ Unit and to\nCorporate Materials Management Group (CMMG) (For MM and Contract cases) & Corporate\nProjects (for Projects cases).",
+        "subsubheadings": {}
+      },
+      "1.5": {
+        "title": "In addition to procedure indicated in PCP-24, the different circular I guideline issued by",
+        "content": "Government Agencies from time to time may also be referred to. If any change is required to be\nmade in the existing PCP due to such instructions I guidelines / directives or otherwise,\namendments will be issued by CMMG.",
+        "subsubheadings": {}
+      },
+      "1.6": {
+        "title": "In all cases wherever approval of Next Higher Authority (NHA) is envisaged as per the",
+        "content": "provisions of PCP or as per extant DOP, in case the original approval is by Director-in-ChargeI\nDirector I Head of Unit, the NHA shall also be the Director·in-Charge/ Director I Head of Unit for\naccording such approval.\n2.0. RAISING OF INDENTS",
+        "subsubheadings": {}
+      },
+      "2.1": {
+        "title": "The indents for procurement of' goods or services or both or proposal for job / operational /",
+        "content": "works contracts shall be raised by the department(s) concerned or designated centralized\nagencies. These indents shall be prepared in the prescribed format (to be designed by each\nplanVunit).The indent shall be signed / e-signed / cleared online in SAP by the Head of the\nDepartment (HOD). The plant l unit shall devise a proper system of numbering the indents\ninitially and the re·processing reference at different stages to facilitate cross-reference. Suitable\nrecords shall also be maintained for such numbering / references at different stages for control\npurposes. Efforts shall be made, wherever possible, to maintain records electronically and\ngenerate reference numbers online.",
+        "subsubheadings": {
+          "2.1.1": {
+            "title": "For Project I Contract cases / Capital I AMR schemes, proposal will be initiated by indenter",
+            "content": "and processed by MM Dept./ Contract Cell/ Project Dept.I contract operating authority /\ndesignated centralized agency based on the scheme sanctioned by the management."
+          },
+          "2.1.2": {
+            "title": "The names of the suggested registered manufacturers I suppliers / traders I contractors, as",
+            "content": "the case may be, may be indicated by the indenter in the indent on the basis of past\nexperience of parties along witlh order references . if any."
+          },
+          "2.1.2.1": {
+            "title": "Reservation and Preferential / Mandatory Purchase from certain sources: At the time",
+            "content": "of raising of indent, extant guidelines of the government related to reservation of\nitems/services and purchase preference should be referred and suitably incorporated in the\nindent.\nPurchase I Contract Procedure 2024 PageSof 44\nFor example, directive related to procurement of khadi goods from Khadi & Village Industries\nCommission {K VIC), specific items for procurement from Micro and Small Enterprises (MSE),\nMake in India, Startups etc.\nIn case, exemption to Startu1PS for annual turnover and experience criteria is not to be given,\nreasons for the same should be duly recorded in the indent.\nThe proposal for purchase preference to PSUs / Government organisations shall be based\non the extant guidelines issu,ed by the Government of India.\n2.1 .3 The indenter shall specify if the quantity for items / job / service is divisible for order\ndistribution. In case it is required to place order on only one source, the indenter shall specify\nthis in the indent. In case, it is required to place order on more than one source, the indenter\nshall specify so in the indent. giving the maximum number of suppliers / contractors to be\nengaged, justifying the reason:s for the same."
+          },
+          "2.1.4": {
+            "title": "In case there are certain q1uantifiable factors required to be considered / loaded while",
+            "content": "evaluating the prices quoted by the tenderers, such factors in clear quantifiable terms should\nbe mentioned in the indent by the indenter."
+          },
+          "2.1.5": {
+            "title": "In case the tenderers are re1quired to submit samples along with the quotation, the same",
+            "content": "should be clearly men tioned in the indent itself. However, no sample should be called for the\nitems for which detailed/ standard specifications are available. For procurement of clothing\nand textile items, detailed specifications may be mentioned & no sample shall be called.\nHowever, if required, provision for submission of an advance sample by successful bidder(s)\nmay be stipulated for indeterminable parameters such as shade/ tone, size, make-up, feel,\nfinish and workmansh ip, befon3 giving clearance for bulk production of the supply."
+          },
+          "2.1.6": {
+            "title": "In case Price Variation clause is to be included, the method to be used for determining the",
+            "content": "variation, the base rate and the base date for calculating the variation shall be clearly defined\nand indicated in the indent."
+          }
+        }
+      },
+      "2.2": {
+        "title": "FOR PURCHASE OF MATERIALS",
+        "content": "",
+        "subsubheadings": {
+          "2.2.1": {
+            "title": "The indenter should give full and complete information regarding the description and",
+            "content": "specification of the material to be procured. To the extent possible, specifications given should\nbe standard specifications . The cut-off points / range for performance / acceptance and the\npoints / range for bonus and penalties should be indicated, wherever feasible."
+          },
+          "2.2.1.1": {
+            "title": "The technical specification should normally be based on standards set by the Bureau of",
+            "content": "Indian Standards (BIS) / Indian Standards, wherever such standards exist. In the absence of\nBIS standards / Indian Standards, technical specification may be based on the relevant\nInternational standards . An iindenting authority may, for reasons to be recorded in writing,\nbase the technical specification on equivalent international standards even in cases where\nBIS standards / Indian Standards exist. For any deviations from Indian standards or for any\nadditional parameters for better performance, specific reasons for deviations/modifications\nshould be duly recorded.\n2.2.1. 2 In choosing equipments / appliances for procurement, emphasis should preferably be on\nfactors such as efficiency, optimum fuel/power consumption, use of environmental friendly\nmaterials, reduced noise and emission levels , low maintenance cost, etc. to promote\nsustainability. Guidelines of Bureau of Energy Efficiency (BEE) (http://www.bee-india.nic.in)\nmay be referred in this regard ."
+          },
+          "2.2.2": {
+            "title": "Digitized/scannedcopies of manufacturing drawings with latest revision should be provided",
+            "content": "with the indents, wherever required .\nPurchase I Contract Procedure 2024 Page 6of44\n........"
+          },
+          "2.2.3": {
+            "title": "Along with the indent, the indenter shall also prepare and enclose the following:",
+            "content": "a) In respect of new items , a check-list as per the prescribed proforma (to be designed by\neach plant / unit) justifying the indented quantity, with all columns correctly and completely\nfilled. This check list shall be signed / cleared online by the HOD.\nb) Due diligence must be made before procuring the items as Proprietary. Efforts made on de\nproprietarisation should be recorded and a certificate on the prescribed proforma (to be\ndesigned by each Plant / Unit) signed by the HOD has to be provided. The purchase of\nitems on proprietary basis should be kept at the minimum possible level and should be\nresorted to when other technically acceptable substitutes are not available.\nc) Proposed criteria for technical eligibility & acceptance should neither be made very\nstringent nor very lax to restrict / facilitate entry of bidders . It should be ensured that the\neligibility criteria are exhaust ive yet specific to enable fair competition. It should also be\nensured that the criteria are clearly stipulated in unambiguous terms. It should take into\naccount the aspects mentioned in Clause no. 6.4 (a) to (g) Annexure 9: Sample\nPrequalificalion Criteria of Manual for Procurement of Goods and amendments thereto as\nwell as relevant OMs/guidelines issued by DoE may be referred."
+          },
+          "2.2.4": {
+            "title": "In the indent. the indenter will ensure, depending upon the nature of the item indented,",
+            "content": "incorporation of special requirement of Inspection/ quality assurance plan / special packing\ninstructions, if any. The requirrement of inspection / quality assurance plan / special packing\ninstructions, if any, should be made part of the tender document."
+          },
+          "2.2.5": {
+            "title": "In case some of the items in the indent are matching/complementary parts of an equipmenU",
+            "content": "assembly and are required to be supplied by one supplier only, the indenter shall specify this\nin the indent.\n2.2.6 6 With a view to optimi zing the utilization of internal facilities, each plant / unit is to prepare\nand get approved by the Competent Authority, an annual plan for 'Make' items in\nincreasing numbers on cost-effective basis, one month before the beginning of each financial\nyear for the ensuing financial year. Indents shall not be raised for items identified as 'Make'\nin the annual plan for the financial year . Hlowever, where part quantity will be identified\nas \"Make\" and balance as \"Buy\"; indents for \"Buy'' quantity only shall be raised. For\n\"Make\" items, the departme nt shall raise Work Order (WO)' in the prescribed form, to be\nplaced on the shops."
+          }
+        }
+      },
+      "2.3": {
+        "title": "FOR JOB/ SERVICE CONTRACTS WHICH ALSO INCLUDES OPERATIONAL CONTRACTS,",
+        "content": "HANDLING, CONVERSION, HIRING, CONSULTANCY, WORKS ETC.",
+        "subsubheadings": {
+          "2.3.1": {
+            "title": "The indenter should give detailed information regarding description of the jobs to be executed",
+            "content": "along with the materials to be supplied and equipment to be deployed by the contractor,\nwherever applicable. For the items to be supplied, the quantity along with detailed\nspecifications and drawing number, etc., should be given in the indenl Similarly, for the\nequipment to be deployed the desired capacities of the equipment, their ownership,\nprocurement through rent/ lease, etc.• should be specified in the indent."
+          },
+          "2.3.2": {
+            "title": "The overall quality of the jobs to be executed along with the expected Performance Guarantee",
+            "content": "parameters shou1 ld be clearly indicated in the indent. The indent should also include any\nother Special Terms & Conditions other than the Genera\\ Terms & Conditions, required for the\nexecution of the jobs. Para 9.15.2 of Manual for Procurement of Consultancy & other\nServices, and amendments thereto as well as relevant OMs/guidelines issued by DoE may\nbe referred."
+          },
+          "2.3.3": {
+            "title": "In the indent. the indenter will ensure incorporation of suitable Special Terms & Conditions,",
+            "content": "particularly the Inspection Clause, and specify the Inspecting agency for certifying the\nexecution of jobs as per contractual terms & conditions. The name and the designation of the\nexecuting officer / Contract Operating Authority would also be mentioned in the indent /\n8'\nproposal.\nPurchase I Contract Proceduer 2024 Page 7of44"
+          },
+          "2.3.4": {
+            "title": "With a view to optimizing the utilization of internal resources, each Plant / Unit is to prepare",
+            "content": "an annual plan and get it approved by the Competent Authority one month before the\nbeginning of each financial i1ear for the ensuing financial year of the jobs which cannot be\nundertaken internally and are to be off-loaded to the contractors during the financial year.\nSuch list should be in decreasing number on cost-effective basis. Indents shall not be raised\nfor the jobs not included in the approved annual plan for the financial year. In rare /\nexceptional cases, where the jobs were not included in the approved annual plan for the\nfinancial year, such indents shall be raised with recorded reasons and the approval of the\nHead of Works (for Steel Plants/ Units)."
+          },
+          "2.3.5": {
+            "title": "For same scope of work to be executed at different locations and/or in different phases, in a",
+            "content": "planU unit, the annual list of such jobs prepared by different departments / shops, should be\nscrutinized and co-ordinated by one centralised agency for rationalization as per extant\nOutsourcing Policy of SAIL before it is approved by the Competent Authori ty. Accordingly ,\nonly one consolidated indent should be raised by the centralised agency for same/ similar\nscope of work considering the locat ional issues and if more-than one contractor is required to\nbe engaged for such jobs, justification must be recorded in the indent (Ref. Para 2.1.3). In\nexceptional cases where one consolidated indentcannot be raised for same I similar scope\nof work, approval of the Headl of Works/Head of Unit shall be obtained to raise these indents."
+          },
+          "2.3.6": {
+            "title": "In case of proposals for consultancy services, the indenter shall provide complete deta ils of",
+            "content": "Terms of Reference (TOR) . Consultants or any of their affiliates will not be hired for any\nassignment, which by its nature, may be in conflict with another assignment of the\nconsultants."
+          }
+        }
+      },
+      "2.4": {
+        "title": "ESTIMATED VALUE",
+        "content": "",
+        "subsubheadings": {
+          "2.4.1": {
+            "title": "It will be the prime responsibility of the indenter to prepare jud icious estimate of the current",
+            "content": "value of the indent. The indenter shall take the help of engineering services and other\ncentralised agencies, if so required , for the preparation of judicious estimate using scientific/\ntechnical methods. The estimated value of each and every item to be procured / each and\nevery item of work to be executed will be filled in the appropriate column in the indent. The\ndetailed estim ate signed by the Head of the Indenting Department will be enclosed with the\nindent. Basis of estimate shall be invariably recorded.\nFollowing shall be the guidelines for the preparation of estimates:-\na) For frequently procured items or services (i.e., items / services purchased at least twice\nduring last three (3) years), the estimate shall be based on the last purchase price obtained\nthrough normal tendering and competit ive bids with adjustment for variations in the prices of\nraw materials, wages and other inputs including current market cond itions based on relevant\nRBI indices or any other indices, wherever appropriate.\nb) For infrequently procured items (i.e. items not procured at least twice in last three (3) years)/\nnew items, scientific / technical estimate shall be prepared tak ing into considerat ion the cost\nof raw material, casting / machin ing, treatmenU testing, labour, overhead expenses,\ntransp ortation and applicable statutory duties and levies etc. In case , cost of making pattern/\nengineering drawing / development of the items are also included in the estimate, all care\nshould be taken to exclude this portion of cost in future while re-indenting / re-ord ering.\nIf required, for guidelines, budgetary quotations may be obtained for infrequently procured\nitems preferably from OEM / OES / authorized dealer / registered vendors / last supplier, for\nnew items(s) or new technology. Efforts should be made by the indenter to get more than one\nbudgetary quotation.\nFor preparing departmental estimate, the lowest of rate(s) of\ni. Budgetary offers or\nPurchase I Contract Procedure 2024 Page8of44\n•\nW'f S.\\IL\nii. Last Purchase Price (LPP) with adjustment for variations in the prices of raw\nmaterials, wages anid other inputs including current market conditions based on\nrelevant RBI indices tJr any other indices, wherever appropriate or\niii. Cart Value on GeM, is to be considered.\nc) For procurement of propr,ietary items, LPP, if available in the last 2 years, should be\nconsidered as estimate. In cases where LPP is more than two years old or is not available,\nthe supplier's price list / ra1tes along with the applicable discounts shall be obtained for\npreparing estimates. Such list should be directly obtained from the manufactureror India\nOffice of OEM / OES or dealers / authorized agents. List supplied by dealers / authorized\nagents should not be considered unless authorized by the manufacturers. For a product\navailable on GeM, estimate may be based on prevailing product price on GeM.\nd) For job contracts and infrequ1ently procured (i.e. not procured at least twice in last three (3)\nyears I new Service contracts including manpower related contract, conversion, handling,\nport related etc., fresh estimates shall be prepared for each indent/ contract. While preparing\nestimate, last contract price / job order value should not be the sole consideration for the\nbasis of estimate. For the preparation of estimates, the following factors may be considered:\ni. Job elements,\nii. Supplies to be made,\niii. Mobile equipment/tools and tackles to be provided,\niv. Any other services, f,ee against statutory obligations, overheads etc.,\nv. Green-field/ brown-field job, comple tion period, shutdowns involved.\nLabour cost for each elememt of job, cost of supplies, hiring / operation cost of mobile\nequipment / tools and tackles and any other services, etc., shall be prepared for job\ncontracts.\nFor standard service contracts, if available on GeM, estimate may be based on the prevailing\nrates of such service on GeM.\ne) For Projects cases, the lnitia1l estimate prepared by the consultant should be examined by\nconcerned officials and duly approved by the authority approving the issuance of tender\nenquiry in consultation with associate finance.\nThe estimates finalisedprior to the notice inviting tendershould be duly recorded. In case the\nestimates are required to 'be updated after pre-bid discussions or techno-commercial\ndiscussions, the detailed reason for such update should be duly recorded in writing by the\nTender Committee with proper deliberations and approved by the Tender Approving\nAuthority . After approval of Tiender Approving Authority, the Consultant/ Agency/ Department\nbe asked to submit revised estimate (incremental / decremental as the case may be). The\nRevised Estimate be examined by the concerned officer(s)/ Department. Before approving,\nthe Tender Approving Authority shall consult the Associate Finance.\n3.0. SCRUTINY OF INDENTS/ PROPOSALS"
+          }
+        }
+      },
+      "3.1": {
+        "title": "The indents for procurement of material shall be scrutinized by the Screening Committee",
+        "content": "constituted by the Competent Authority for the nature of the items concerned, comprising the\nrepresentatives of the related departments such as Centralized Maintenance, Central\nWorkshop, indenter, MM Dep,t., Finance, etc. The executives nominated for the Screening\nCommittee shall be in the rank of E-5 and above. The Screening Committee shall scrutinize\nthe indent within a week of the receipt by it. The scrutiny by the Screening Committee shall\ninter-alia cover the following:-\na) Norms prescribed with the approva l of the Competent Authority for inventory holding both in\nterms of value and duration o1f consumpiton,\nb) The complete specifications including drawings, if required,\nc) Non-inclusion of the item in A1Pproved Annual plan for \"Make Items\", mentionedin para 2.2.6,\nPurchase I Contract Procedure 2024 Page9of44\n•\nw ,\nd) Consumption pattern,\ne) Stock In hand and dues in,\nf) Budget availability,\ng) Availability of all prescribed enclosures and certificates,\nh) Estimates along with the basic data including basis of estimate,\ni) Suggested mode of procurement / tendering giving reasons,\nj) Names of suppliers suggested by the indenter in the indent,\nk) Inspection guidelines,\nI) Eligibility conditions, includin9 turnover, production capability, financial strength, etc. do not\nresult in unreasonable exclusion of capable suppliers/contractors but should be restrictive\nenough not to allow incapable suppliers/contractors,\nm) The QCBS (Quality & Cost Based Selection) / Life Cycle Cost may be adopted as the mode\nof evaluation on case to case basis. However, parameters of evaluation must be clearly\nmentioned.\nParas \"3.9\", \"6.9.2\" of extant Manual for Procurement of Consultancy & other Services and\namendments thereto as well as relevant OMs / guidelines issued by DoE may be referred for\nguidance related to Quality & Cost Based Selection.\nPara \"9.17 .6\" of extant Manual for Procurement of Consultancy & other Services / Para\n\"4.9.1.A\" of extant Manual for Procurement of Works thereto as well as relevant OMs /\nguidelines issued by DoE may be referred for guidance related to Quality & Cost Based\nSelection (QCBS) for Works and Non-Consultancy Services.\nn) Minimum / Maximum / Range for performance / acceptance and the Points / Range for\nbonus and penalties, if applicable,\no) Delivery schedule / instructions.\np) Packing and Marking details, as applicable,\nq) Quantity and weighmenttolerance, if appllcable.",
+        "subsubheadings": {
+          "3.1.1": {
+            "title": "Intimation of the clearance of quantity and value of an indent to be sent to the Indenterby the",
+            "content": "Screening Committee to update their records within three (3) days of completion of the\nscrutiny by the Screening Committee."
+          },
+          "3.1.2": {
+            "title": "In case of computer generated indents of Automatic Procurement (AP) items. based on the",
+            "content": "reorder level, screening is not required by the Screening Committee."
+          },
+          "3.1.3": {
+            "title": "Indents value below Rs. 5 Lakhs (Proprietary items and Single Tender Non-Proprietary",
+            "content": "(STNP) items), covering the annual requirement and items cleared by Empowered\nCommittee constituted with the approval of Director I Director in-Charge / Head of Unit need\nnot be scrutinized by the Screening Committee and shall be cleared by the Head of Indenting\nDepartment for further processing by the MM Dept.I concerned department. These indents\nshall have all details as per Para 3.1 and also a certification from the Head of Indenting\nDepartment, indicating that th,e indent is for the total annual quantity required."
+          }
+        }
+      },
+      "3.2": {
+        "title": "The indents / proposals for service / Job contracts shall be scrutinized by the Screening",
+        "content": "Committee, constituted by the Competent Authority for the nature of the job concerned,\ncomprising the representatives of the related departments such as indenter, Centralized\nMaintenance, Services, Contract Cell, Finance, etc. The executives nominated for Screening\nCommittee shall be in the rank of E-5 and above. The Screening Committee shall scrutinize\nthe indent within two weeks of the receipt of the indent by it.\nPurchase I Contract Procedure 2024 Page 10af44\nThe Screening Commi ttee s'hall inter-alia cover the following, while examining the indent /\nproposal:\na) Inclusion of the job in Approved Annual Plan, mentioned at Para 2.3.5,\nb) Complete job description including scope, drawings , if required,\nc) Budget availability,\nd) Availab ility of all prescribBd enclosures & certificates,\ne) Estimates along with the basic data,\nf) Terms & Conditions required for execution of the job including the eligibility, payment\nterms, price evaluation cr iteria,\ng) Suggested mode of tendering, giving reasons.\nh) Names of contractors, suiggested by the indenter in the indent.",
+        "subsubheadings": {
+          "3.2.1": {
+            "title": "Intimation of the clearance of quantity/scope of work and value of an indent to be sent to the",
+            "content": "indenter by the Screening Committee to update their rec ords within three (3) days of\ncomplet ion of the scrutiny by the Screening Committee."
+          },
+          "3.2.2": {
+            "title": "In case of any indent going beyond the approved overall budget of the department concerned,",
+            "content": "for additional / readjustment / re-appropriatio n of the budget, approval of Competent Authority\nas per the Delegation of Powe:r (DOP) should be obtained."
+          }
+        }
+      },
+      "3.3": {
+        "title": "If the indent is found to be incomplete in any respect , it will be returned by the respective",
+        "content": "Screening Committee to the indenter for completion.",
+        "subsubheadings": {}
+      },
+      "3.4": {
+        "title": "The scrutinized indent, found complete in all respects, shal l be sent to the MM Dept. / Contract",
+        "content": "Cell/ Contracting Department after obtaining approval of the Competent Authority.\n4.0. ACTION ON INDENT BY MM DEPTT/CONTRACT CELL/ CONTRACTING DEPARTMENT",
+        "subsubheadings": {}
+      },
+      "4.1": {
+        "title": "On rece ipt of the indent by the MM Dept./ Contract Cell/ Contracting Department, an entry will",
+        "content": "be made in the online / electronic indent register and a case-file opened. Separate indent\nregisters shall be maintained for purchase of material and for job contracts indents. While\nprocessing the indent for tendi ring, if any discrepancy is found, the MM Dept. / Contract Cell/\nContracting Department shall return the indent to the Screening Committee / indenter for\ncompliance/clari fication by either Screening Committee or by indenter, on such discrepancies.",
+        "subsubheadings": {}
+      },
+      "4.2": {
+        "title": "Considering the nature of item / service I job, its value / cost involved, knowledge of suppliers",
+        "content": "I contractors , prevailing market scenario, etc., the mode of tendering for indent value Rs. 5\nLakhs and above shall be sum1ested or ratified by the respective Screening Comm ittee and for\nindents valuing below Rs. 5 Lakhs as referred in Para 3.1.3, the mode of tendering shall be\nsuggested by the MM Dept. / Contract Cell / Contracting Department based on\nrecommendations of indenter / HOD of concerned department, for approval of Competent\nAuthority .",
+        "subsubheadings": {
+          "4.2.1": {
+            "title": "The indents should be processed by the MM Dept. / Contract Cell / Contract ing Department",
+            "content": "within three (3) working days / seven (7) working days respect ively for purchase/ job contract,\non receipt of the indent from respective Screening Committee. The proposal seeking the\napproval of the Competent Auithority for procurement/ contracting shall also envisage terms\nand conditions of the tender with deviations, if any, mode of tendering, bid submission time,\nthe cost of tender documents, to be fixed either by Screening Committee or MM Dept. /\nContract Cell / Contracting Department(as the case may be), and in case of Open / Global\nTender, the starting and closing date for sale of tender documents along with the name of the\noffice of the Plants/Units of SAIL for issue of the tender documents . Procurement process is to\nbe initiated by the MM Dept. / Contract Cell / Contracting Department, which include issue of\nenquiry after receipt of the approval of the Competent Author ity as per DOP."
+          }
+        }
+      },
+      "4.3": {
+        "title": "Enquiry for the purchase of materials / job contracts shall be issued by MM Dept./ Contract",
+        "content": "Cell/ Contracting Department within seven (7) working days from the date of the approval\naccorded by the Competent Aiuthority for mode of tendering . Names of tenderers from \".!'horn\nPurchase I Contract Procedure 2024 Poge 11 of 44\ntender is invited, in case of lim ited or single tender , shall also be approved by the Competent\nAutho rity.",
+        "subsubheadings": {}
+      },
+      "4.4": {
+        "title": "MM Dept. / Contract Cell/ Contracting Department should ensure that a reasonable time is",
+        "content": "fixed for the bids to remain val id while issuing tender enquiries, keeping in view the complexity\nof the tender, time required for processing the tender and seeking approval of the Competent\nAuthor ity etc . and finalization of tender within the stipulated original validity should be ensured,\nas far as possible.\n5.0. MODE OF TENDERING",
+        "subsubheadings": {}
+      },
+      "5.1": {
+        "title": "The recommended modes of tender ing for placement of orders are as under:",
+        "content": "i. Open Tender Enquiry (OTE) / Global Tender Enquiry {GTE) ;\nii. Limited Tender Enquiry (LTE);\niii. Single Tender Proprietary (STP) Enquiry (For proprietary cases or Items from Original\nEquipment Manufacturer / Supplier);\niv. Single Tender Non-Proprietary (STNP) Enquiry\nFor procurement of goods & services on Government e-Marketplace (GeM):\nA. For processing of indent / enquiry /placement of Orders on GeM, the delegation of\npowers (DOP) will be based on mode of tendering opted. In case of any conflict between\nthe provisions of PCP an1d GeM, the extant provisions of GeM shall have the overriding\neffect.\nB. Methodology of procurement as available on GeM may be adopted, including :\na. Two bid system (techno-commerc ial and price bid separately) ,\nb. Direct Purchase up to specified value limit,\nc. Push Button Procurement {PBP) ,\nd. Single Packet Bid (SPB) ;\nto be decided by MM Department I Contract Cell/ Contracting Department and approval\nfor the requisite methodology other than 'a.' above is to be taken from Tender Approving\nAuthority.\n5.1 .1 As a substitute to frequent tendering, for facilitating timely availability of any goods or service,\nOrder placement may also be iconsidered on the basis of the following:\ni. Repeat Orders;\nii. Rate Contract (RC)/ 'long Term Agreement (LTA) / Memorandum of\nUnderstanding(MOU)\n5.1.2 2 In addition to the above, there may be occasions when the Plant / Unit may have to resort\nto emergency purchase/ job conllract.",
+        "subsubheadings": {
+          "5.1.3": {
+            "title": "Approval of Competent Authoirity shall be obtained for issuance of NIT in each of the above",
+            "content": "case.\n5.1 .4 For issuance of tenders, the O'Ms / Orders issued by Government of India and any subsequent\nmodifications / amendments thereto, relating to:\na) Public Procurement (Pref1erence to Make In India) Order 2017\nb) Restrictions imposed on issuance of GTEs, and\nc) Requirement of registrat on of bidders with Competent Author ity, such as in case of\nbidders from countries sharing land border with India etc., shall be adhered to and\nnecessary clause (s) shall be included in the Terms & Conditions of Tender Enquiry /\nRFQ for complying with the provisions thereof."
+          }
+        }
+      },
+      "5.2": {
+        "title": "OPEN TENDER /GLOBAL TENDER",
+        "content": "",
+        "subsubheadings": {
+          "5.2.1": {
+            "title": "Open/Global Tenders are to be considered, if any one or more of the following circumstances",
+            "content": "exist:\ni) When reliable manufacturers / suppliers / traders / contractors as well as latest\ntechnology are not clearly known.\nPurchase I Contract Procedure 2024 Page 12 of 44\n\"\"''\"\nii) When it is felt that advertising may elicit better response.\niii) For any other commercial consideration i.e. as a policy, DOP / estimated value of\npurchase / Job contract, formation of cartel like situations etc.\nProcurements exceeding the threshold of Rs. 50 lakh (Rupees Fifty Lakh) should normally be\ndone through Open/Global Tenders. In case the same is to be done through LTE, reasons\nare to be recorded in the indent.\nFor Project cases. the threshold for OTEs as mentioned in extant provision as per Clause\n3.5.1 of Manual for Procurement of Works, as amended from time to time, may be referred."
+          },
+          "5.2.2": {
+            "title": "Plants / Units shall ensure that the complete tender documents along with the enclosures, if",
+            "content": "any, are uploaded and displayed on the SAIL Tender Website which can be downloaded by\nthe interested tenderers."
+          },
+          "5.2.3": {
+            "title": "All Open / Global tender notices shall be published on SAIL Tender website and will get",
+            "content": "reflected / published on Central Public Procurement (CPP) Portal No notice is required to be\ngiven in newspapers for such tenders. Addendum / corrigendum / extension of Bid Submission\n/ Bid Opening Date if any shall also be published on the above mentioned sites only.\nTherefore, a clause to this effect should be inserted in the NIT. Additionally, for import cases,\nthe tender notices should also be published in Indian Trade Journal (ITJ) of DGCl&S, Ministry\nof Commerce & Industry."
+          },
+          "5.2.4": {
+            "title": "Intimation for open / global tEm ders may be given by the dealing officer by email to all the",
+            "content": "parties who had participated in tenders earlier or any other prospective tenderers."
+          }
+        }
+      },
+      "5.3": {
+        "title": "LIMITED TENDER ENQUIRY (LTE)",
+        "content": "",
+        "subsubheadings": {
+          "5.3.1": {
+            "title": "LTE should be issued only when reliable manufacturers / suppliers / traders / contractors are",
+            "content": "known. A list of such registered manufacturers / suppliers / traders / contractors shall be\nmaintained by MM Dept. / Contract Cell / Contracting Department. The registration of\nmanufacturers / suppliers / traders / contractors should be according to the relevant IPSS. LTE\nshould be issued only to registered vendors."
+          },
+          "5.3.2": {
+            "title": "When the decision is to adopt LTE as a mode of tendering, the whole indent should be treated",
+            "content": "as one and no split-up thereof should be made to reduce the value of tender enquiries."
+          },
+          "5.3.3": {
+            "title": "Emphasis is to be given to maximize finalization of contracts/ procurement through e-mode of",
+            "content": "tendering such as ERP/ SRM /EPS / web enabled system. In Plants/ Units, where SRM / EPS\nis implemented and a-tendering is not resorted to, approval of HoMM shall be required.\nWherever e-tendering has not been resorted to, LTE papers should be scanned and e mailed\nto the firm as available in the records of the company. The mode of submission of tender\n(portal or physical) should be clearly stipulated in the document.\nWhere no email is available. LTE papers should be dispatched through registered post / under\ncertificate of posting / courier to the address of the firm as available in the records of the\nCompany. Original LTE papers should not be given by hand to the representative(s) of any\nfirm."
+          },
+          "5.3.4": {
+            "title": "The selection of firms for LTE shall be done by the MM Dept. / Contract Cell / Contracting",
+            "content": "Department in a judicious manner to ensure that:\ni) The firms are financially and technically sound,\nii) The past performance of the firms with regard to quality and adherence to time schedule\nshould also be considered while recommending a firm for issue of LTE,\niii) The supplier / contractor who has successfully made the last supply / executed the last\njob, shall be considered for issuance of LTE, except in case of any restriction(s) imposed\nby Government Policy/ Statute/ Guidelines;\niv) It is Intended that all vendors registered for a particular category/sub-category should be\ngiven opportunity to participate in LTE. In case the PlanUUnit decides for rotation above\nPurchase I Contract Procedure 2024 Page 13of44\ncertain pre-decided number of available registered vendors, the firms registered for a\nparticular category/sub-ca tegory will be given coverage by rotation. Subject to (i), (ii) and\n(iii) above, no registered party should be considered for LTE for the second time unless\nall the registered parties ijn the list have been considered at least once in each cycle.\nHowever, for procurement of Security Services, LTE shall be issued to the panel of Security\nService Providers sponsored by Directorate General Resettlement (DGR);"
+          },
+          "5.3.5": {
+            "title": "In cases where there are less than three (3) registered suppliers for an item I service, vendors",
+            "content": "registered for similar items with other SAIL Plants / Units should be considered for issuance of\nLTE, provided there is no adverse report on their performance. Additionally, efforts may be\nmade to look out for the vendors already available on GeM on which Orders I Contracts for\nsimilar items I services were placed by other Steel Sector buyers on GeM. Under exceptional\ncases, LTE may be Issued only to two registered suppliers with recorded reasons and shall be\nissued with the approval of Director/Director In-Charge/Head of Unit. Such cases should then\nalso be marked to the Vendor Registration & Development Cell for development of more\nsources for future procurement.\nHowever, for the items so far purchased as proprietary for which additional vendor(s) has /\nhave been found / developed as proven source, LTE to all such additional vendors shall also\nbe issued with the approval of Competent Authority as per DOP."
+          },
+          "5.3.6": {
+            "title": "For capital sanction and Addition, Modification, Replacement (AMR) cases, the",
+            "content": "recommendaitons received from the consultants / Project Department shall also be given due\nconsideration."
+          },
+          "5.3.7": {
+            "title": "In case of purchases against indent value of Rs.10 Lakhs and above, wherever registered",
+            "content": "manufacturers are available, l.TE should be limited to such manufacturers only. While issuing\nLTE to manufacturers, it should be clearly stipulated that in case any of their dealer(s) is\nauthorised to quote on their behalf, a copy of such authority letter be endorsed to SAIL. Only\nafter receipt of such authority letter, the quotation received from the dealer shall be\nentertained. For indent valued below Rs.10 Lakhs, the LTE may be directly issued to the\nauthorised dealer(s) after confirming the validity of their dealership. A copy of\ncorrespondences directly made with the dealer(s) shall also be sent to the manufacturers\nsimultaneously . In Plants/ Units where SRM is available, online authorization of authorized\ndealers shall be accepted."
+          },
+          "5.3.8": {
+            "title": "LTE, other than those processed on GeM, should be posted on the SAIL Tender website as",
+            "content": "well as CPP Portal by the re:spective plants / units as per the provisions in the notrfication\npublished in CPP Portal at UR'L::http//www.eprocure.gov.in."
+          },
+          "5.3.9": {
+            "title": "The following instructions would be put up on the SAIL Tender Website: The Offer against",
+            "content": "these tenders from suppliers o whom LTE has been issued shall only be considered; Offer\nfrom any other party shall be treated as unsolicited. In order to increase competition, following\nshall also be posted on the we,bsite: \"Whosoever is interested to be registered as a supplier of\nthese items, should fill up the vendor registration form, hosted on the website. The normal\nregistration process shall, theneafter be followed by the Plants/ Units for registering the eligible\nsuppliers. This information is :solely for the purpose of exploring the possibility of enhancing\nvendor base, wherever requred and should not be considered as a purchase enquiry.\nPurchase enquiry in future maybe issued to such suppliers, if registered.\"\nLTEs issued on GeM shall contain the following as ATC as a bid term:\n\"The bids submitted by the Sellers to whom LTE has been issued, shall only be considered for\nevaluation; bids from any other Seller shall be treated as unsolicited in the instant procurement\ncase. However, the firm(s) interested to be registered as a Seller to SAIL, should fill up the\nvendor registration form, hosted on the SAIL Tender website and complete the due process of\nregistrat ion with SAIL Plants/ Units.\"\nPurchase I Cantract Procedure 2024 Page 14 of 44"
+          },
+          "5.3.10": {
+            "title": "LTEs should be issued in such a way that sufficient competitive quotations are received from",
+            "content": "the parties.\n5 . 3 .11 For ISO quality critical item:,, ISO procedure issued by SAIL Plants / Units for selection of\nvendors for issuance of LTE shall apply. For registration of vendors even for purchase of ISO\nquality critical items, relevant IPSS should be followed."
+          }
+        }
+      },
+      "5.4": {
+        "title": "SINGLE TENDER ENQUIRY",
+        "content": "",
+        "subsubheadings": {
+          "5.4.1": {
+            "title": "Single Tender Proprietary (STP) Enquiry should be issued to the Original Equipment",
+            "content": "Manufacturer / Supplier or their authorized dealers (where the manufacturer does not supply\nthe equipment directly) or the rtechnology provider/ service provider or contractor only.\nIn case there are more than oine dealer I partner authorized to sell a particular proprietary item\n/ service, discount may be possible through tenders issued to all such known authorized\ndealers I partners as well as Ito the Original Equipment Manufacturer / Supplier/ Technology\nprovider/ service provider/ contractor .\nThe DoP of proprieta ry procuriement shall apply in all such cases."
+          },
+          "5.4.2": {
+            "title": "Single Tender Non-Proprietc1ry (STNP) Enquiry:",
+            "content": "The cases where the enquiry is restricted to only one source, though many sources/ suppliers/\ncontractors/ agencies exist, such procuremenU contract is on nomination basis.\nSuch STNP Enquiries should be issued as an exception only and processed, after recording\nreasons.\nThe indenter should take approval of Director/ Director In-Charge / Head of Unit in all cases\nexcept:\ni) procuremenU service contract from PSUs/ Central GovernmenU State Government\nUndertakings where approval of Competent Authority shall be obtained as per the\napplicable DOP\nii) small value purchases which shall be governed by provisions of Para 23.2.3 (d)."
+          },
+          "5.4.2.1": {
+            "title": "A list of items procured / contract awarded on single tender basis, other than those",
+            "content": "processed on GeM, should be hosted on SAIL Tender Website to enhance vendor base of\nsuch items/job as per the provisions in the notification published in CPP Portal at\nURL::https://www.eprocure.gov .in ."
+          },
+          "5.4.2.2": {
+            "title": "The instructions to be includ«3d on the website should be that, \"Whoever is interested to be a",
+            "content": "registered supplier of these items, should fill up the vendor registration form, uploaded on the\nwebsite. The norma l registration process shall, thereafter be followed by the Plants / Units\nfor registering the eligible suppliers .\"\n5.4.2.3 .3 Plants / Units should ensure updating of the list of single tender items on SAIL\nTender website on a quarterly basis. A resource person at respective Plants / Units\nshould be nominated for co-ordination."
+          },
+          "5.4.2.4": {
+            "title": "STEs, other than those processed on GeM, should be posted on the SAIL Tender website as",
+            "content": "well as CPP Portal .by the n3spective plants / units as per the provisions in the notification\npublished in CPP Portal at UHL::https://www.eprocure.gov.in ."
+          }
+        }
+      },
+      "5.5": {
+        "title": "REPEAT ORDERS",
+        "content": "",
+        "subsubheadings": {
+          "5.5.1": {
+            "title": "Normally, as per the lead time, prior to expiry of the running supplies / job contracts, the",
+            "content": "indenter has to process fresh indent. However, due to unavoidable circumstances , if either the\nindent is not processed or even after processing the indent, it is not possible to place fresh\norder in time, under such cir,cumstances for the item / job contract for which continuity is\nessen tial, it may be necessary to place repeat order on existing party/ contractor. After\nrec ording the reasons leading to placement of repeat order, the proposal for repeat order on\nsame terms, condi tions & specifications may be considered on the following:\nPurchase I Contract Procedure 2024 PagelS o/44\n--\ni) ) The original order must ave been placed in the usual course after issue of LTE or\nOpen Tender Enquiry. Emergency orders shall not be considered;\nii) Not more than two years have elapsed since placement of the original order;\niii) No price escalation for firm price orders shall be given;\niv ) No repeat order shall be placed, if there is downward trend in prices;\nv ) The quantity/ scope considered for ordering is not more than 100% of the original ordered\nquantity/ scope, for each repeat order;\nvi) The original order was neit placed on the basis of a higher price for earlier delivery;\nvii) Sanction of Competent Authority for repeat order shall be obtained.\nIn cases where original order is placed to cover requirement of up to one year, not more than\ntwo repeat orders should be placed .\nIn cases where original order is placed for more than one year and up to two years, not more\nthan one repeat order for a pmiod up to one year should be placed."
+          },
+          "5.5.2": {
+            "title": "However, in exceptional cases., with the approval of Director In-charge I Director / Head of Unit",
+            "content": "and after recording justifications :\nI) In cases where original order is placed for up to one year, a third repeat order can be\nplaced.\nii) In cases where original order is placed for more than one and up to two years, a second\nrepeat order for a period up to one year can be placed.\niii) In cases where original order is placed for more than two and up to three (3) years, one\nrepeat order for a period up to one year can be placed.\n5 6 RATE CONTRACT (OWN)"
+          }
+        }
+      },
+      "5.7": {
+        "title": "PROCUREMENT ON GeM",
+        "content": "Government e-Marketplace (GeM) may be utilized for procurement of goods & services\navailable on GeM. For processing of indent / enquiry I placement of orders on GeM, the\ndelegation of powers (DOP) will be based on mode of tendering selected as per Clause-5.1\nabove.",
+        "subsubheadings": {
+          "5.7.1": {
+            "title": "Procurement of any Goods or Services on GeM portal shall be as per the extant guidelines",
+            "content": "issued by the Government of India."
+          }
+        }
+      },
+      "5.8": {
+        "title": "EMERGENCY PURCHASE/JOB CONTRACT",
+        "content": "",
+        "subsubheadings": {
+          "5.8.1": {
+            "title": "Provisions for emergency purchase / job contract have to be kept to meet the emergency",
+            "content": "needs of the Plants / Units and it is essential to delegate powers to meet such situations\nparticularly in maintenance, commissioning and breakdown jobs so as to keep the flow of\nproduction/ services uninterrupted. In case of purchase, such emergency normally occurs\n3'\nPurchase I Contract Procedure 2024 Page 16 af 44\nwhen there is inadequate or ino stock in the Stores and chances of getting supplies against\npending orders within the stipulated time schedule are remote. Similarly, in case of Job\ncontracts, such emergency occurs when breakdown of equipment occurs and internal\nresources are not adequate t.o take timely action or there is likelihood of discontinuation of\nServices, which are required ain continuous basis."
+          },
+          "5.8.2": {
+            "title": "Due to the very nature of the requirements, which has to be met in the shortest possible time,",
+            "content": "the normal process of tendering stipulated in this procedure cannot be followed. For\nemergency indents, the mode of tendering and method of placement of order may, therefore,\nbe adopted as per the specific requirements of the case and the time available for the\nplacement of order and getting materials/ execution of jobs. Approval of the Competent\nAuthority shall be obtained for the specific mode of purchase / award of contract and order\nfinalised. Provisional order at the rate to be finalized later on / spot quotations and placement\nof order on Single Tender basis may be adopted in such situations."
+          },
+          "5.8.3": {
+            "title": "Emergency indents shall be accompanied by non-availability & criticality certificates issued by",
+            "content": "the concerned HOD on prescriibed format (to be designed by each plant / unit).\nHowever. processing of successive indents on emergency basis for the same goods/ services\nshall require approval of Nex1l Higher Authority of the Indent Approving Authority. Details of\nmore than two successive indents on emergency basis for the same goods or services shall\nbe routinely reported to Director In-charge/ Director/ Head of Unit for information."
+          },
+          "5.8.4": {
+            "title": "The materials may be procured from best possible source and jobs be awarded to the reliable",
+            "content": "Contractor for such emergency procurement / job contract respectively. Formal purchase\norders should be issued / contracts entered into, in due course for regularizing the emergent\naction taken."
+          }
+        }
+      },
+      "5.9": {
+        "title": "SAIL plants may participate in tenders/ auctions conducted by other companies for purchase of",
+        "content": "products. This will be done as per the extant \"Policy for Participation in Tenders / Auctions\"\nissued by CMMG.\n6.0. INVITATION TO TENDER",
+        "subsubheadings": {}
+      },
+      "6.1": {
+        "title": "For purchases, in case the technical / commercial terms are firm / frozen, single part quotation",
+        "content": "may be invited only against Limited Tenders by suitably selecting the vendors as explained\nunder Para 5.3. However, for 01Pen Tender as explained in Para 5.2. even for the firm technical\nI commercial terms, 2/3 part quotations should be invited. In cases where technical / commercial\nterms are to be negotiated, 2/3 part quotations should be invited even against Limited Tenders.\nIn case of procurement through GeM, any methodology as mentioned in Para 5.1 may be\nadopted as per requirement of the particular case and provisions of GeM.",
+        "subsubheadings": {}
+      },
+      "6.2": {
+        "title": "In cases of job / service contract, generally the technical / commercial terms need to be",
+        "content": "negotiated. Therefore, for all such job / service contracts, 2/3 part quotation, should be invited\nagainst both Limited Tenders and Open Tenders.\nIn case of procurement through GeM. any methodology as mentioned in Para 5.1 other than\nDirect procurement or Push BU1tton Procurement, may be adopted as per requirement of the\nparticular case and provisions 01' GeM .\n6 .3 Before issue of NIT, MM Dept. / Contract Cell/ Contracting Department should ensure that\ndesired information, particularly :specifications/ commercial terms are available in the case file.",
+        "subsubheadings": {}
+      },
+      "6.4": {
+        "title": "Before inviting open tenders, MM Dept./ Contract Cell/ Contracting Department shall determine",
+        "content": "/ record the criteria for eligibility of the tenderers, which may include:\na) Required experience and past performance in similar type of supply / contracts,\nb) Required manpower (skill-wise) and type/capacities of equipment & construction /\nmanufacturing facilities,\nPurchase I Contract Procedure 2024 Page 17of 44\n.....\nc) Proof of ownersh ip / licensee of required equipment and construction / manufacturing\nfacilities,\nd) Financial position,\ne) Service support, if any,\nf) Earnest money/ security deposit as per Clause No. 8.3\ng) Any other criteria, considered necessary.\nThe above criteria shall be spec:ified in the Tender Document under special terms & conditions.",
+        "subsubheadings": {}
+      },
+      "6.5": {
+        "title": "The MM Dept. / Contract Cell / Contracting Department shall also examine/ determine/ record",
+        "content": "(as per applicability) the relevant factors in addition to the price to be considered in Tender\nEvaluation; and the manner in which they will be applied for the purpose of determining the\nlowest evaluated tender. Thesf:i factors , other than the price, to be used for determining the\nlowest determinable tenderer shall, to the extent practicable, be expressed in monetary terms or\ngiven relative weightage in th,::i e valuation provisions in the Tender Document. The QCBS\n(Quality & Cost Based Selectioin) / Li fe Cycle Cost may be adopted as the mode of evaluation\non case to case basis. No factors other than those specified in the Tender Document shall be\nused in the evaluation of offers at the time of preparing the Comparative Statement.\nThis shall also form part of the Tender Document under Special Terms & Conditions.",
+        "subsubheadings": {}
+      },
+      "6.6": {
+        "title": "MM Dept./ Contract Cell/ Contracting Department should also determine and record whether the",
+        "content": "quotations are to be invited on firm prices or are subject to escalation/de-escalation with respect\nto major cost component of the items I jobs . In case the quotations are to be invited with prices\nsubject to escalation / de-escalation, the method to be used for determining the escalation I de\nescalation and the base date for calculating the escalation / de-escalation shall be clearly\ndefined and referred in the Tender Document under special terms & conditions.",
+        "subsubheadings": {}
+      },
+      "6.7": {
+        "title": "For purchases, clause for the submission of sample along with quotation be incorporated in the",
+        "content": "tender, if submission of sample was specifically asked for in the indent (Para 2.1.5 be read\nalong with this Para).",
+        "subsubheadings": {}
+      },
+      "6.8": {
+        "title": "In case of medicines, chemicals and other items having limited shelf life, the left over shelf life of",
+        "content": "each Item at the time of delivery should be at least 80%. In emergency , the left over shelf life\nequal to 120% of the consumption period of such items may be accepted with the approval of\nthe Competent Authority.",
+        "subsubheadings": {}
+      },
+      "6.9": {
+        "title": "In case of Open / Global tenders, other than for capital schemes , the tender should specify that",
+        "content": "to bring the prices of the foreign suppliers and the Indian suppliers at par, the RBI reference rate\nshould be considered for exchange rate conversion and the 'Forward Premium Rate' for the\nperiod of delivery and for staggered delivery the average of all the periods of delivery, will be\nadded to the conversion rate for converting the price Into INR for the purpose of evaluation. The\nRBI reference rate to be considlered for exchange rate conversion and Forward Premium rate\nshould be taken on the last date of bid submission. The RBI reference rate is available on the\nwebsite of RBI at URL::https:l/ www.rbi.orq.in/home.aspx and the Forward Premium is to be\ntaken from Reuters or similar other screen/ information channels available in the Corporate\nFinance/ Finance Dept. of Plants.",
+        "subsubheadings": {}
+      },
+      "6.10": {
+        "title": "In case the ordered quantity of the purchase indent or jobs of the Job Contract are required to",
+        "content": "be split into more than one party at the lime of placement of order, the same will be specified in\nthe tender document. It should be clearly mentioned in the tender document that the distribution\nof order will be in the ascending1 order as per the quoted price ranking of the tenderers, i.e., L1\ntenderer will get the highest share and the last ranked tenderer within which the total order is to\nbe distributed, will get the smallest share. However, before opening of the price bids, specific\nnumber of parties among whom order would be split would be decided and approval of\nCompetent Authority would be obtained. Order shall not be placed on more than these numbers\nof parties, except in the case mentioned at 10.2.1 and purchase preference as per Government\n/ SAIL Polley (e.g. MSE / Ml!).\nPurchase\nI\nContract Procedure 2024 Page lBo/44",
+        "subsubheadings": {}
+      },
+      "6.11": {
+        "title": "In the Tender document under General Terms and Conditions, it should be clearly specified that",
+        "content": "order on one or more than one parties will be placed on the basis of L1 quotation and, if\nrequired, negotiations will be held with L1 tenderer only. However, all the tenderers may be\nrequired to explain / justify the basis of their quoted price as and when asked for. In case, any\ntenderer fails to justify his quoted price or refuses to co-operate in this regard, they will not be\nconsidered for participating in the re-tendering if order / contract is not finalised from the present\ntender.",
+        "subsubheadings": {}
+      },
+      "6.12": {
+        "title": "For service / job contract case:s, there should be a stipulation in the tender documents under",
+        "content": "General Terms & Conditions that if a tenderer quotes unworkable rates, i.e., if the quoted rate ls\nabnormally low, such that it rais,es material concerns as to the capability of the Bidder to perform\nthe contract at the offered rate, the party will be asked to justify the rate quoted. After evaluating\nthe justification provided, if it is felt that the bidder has failed to substantially demonstrate its\ncapability to deliver the contract at the offered rate, the bid/ quote may be rejected.\nHowever, under compelling circumstances, where the bidder is considered for placement of\norder despite having quoted abnormally low rates, the Bidder may be required to give\nPerformance Guarantee Bond (PGB) (in addition to the Security Deposit, if applicable) through\nonline mode/ Bank Draft/ Bank Guarantee/ Bankers Cheque / Fixed Deposit Receipt (FDR).\nThe amount of PGB is to be decided by SAIUPlant at the time of placement of order and\nmethodology for seeking PGB to be indicatedin the tender document.\nIn case the tenderers refuse to nive the PGB, the following action may be taken against them:\ni) If they have submitted Earnest Money Deposit - their Earnest Money Deposit will be forfeited\nand they will not be consid13red in re-tendering if order/ contract is not finalised from the\npresent tender,\nii} If they have submitted Bid Securing Declaration - action may be taken against them as\nstipulated in the Bid Securing Declaration.",
+        "subsubheadings": {}
+      },
+      "6.13": {
+        "title": "If items under purchase are the matching / complimentary parts and required to be supplied by",
+        "content": "single party or items of work in the job contract to be performed by single contractor, it should\nbe clearly specified in the tender document that total price of all such items I items of work shall\nbe evaluated for determining th, e reasonableness of the price.",
+        "subsubheadings": {}
+      },
+      "6.14": {
+        "title": "CONSIDERATION OF AGENTS : Wherever, foreign company I supplier participate in the",
+        "content": "tender, purchases should pref,erably be made directly from the suppliers / manufacturers.\nHowever, either the agent on behalf of the Principal/ OEM or the Principal / OEM directly be\npermitted to bid in a tender, but not both. If agents I dealers / stockists of foreign companies\nquote along with manufacturer, only the offer of Principal / OEM will be consideredas valid. One\nagent cannot represent two Suppliers / Principal / OEM or quote on their behalf in a particular\ntender.",
+        "subsubheadings": {}
+      },
+      "6.15": {
+        "title": "INTEGRITY PACT: For all Tenders/ Contracts I Long Term Agreements (LTAs) valuing 20",
+        "content": "Crores & above and all tenders related to Handling Contracts for Departmental Warehouses of\nCMO and L&I, the tenderer(s) / lbidder(s} / contractor(s) has to enter into an \"Integrity Pact\" with\nSAIL A copy of the Integrity Pact typed on plain paper duly signed by the tender issuing officer\nwho is the Authorized Signatory on behalf of SAIL, has to be enclosed with the tender / bid /\nLTA document. In case of uploading the tender in the website, Integrity Pact also has to be\nnecessarily uploaded after scanning the signed copy of the pact.\nNon-signingof the Integrity Pact will disqualify the offer/ bid. However, biddersmay be given an\nopportunity to sign the Integrity Pact before rejection of the bid.\nFollowing instructions along wit the names of IEMs shall be included in the tender/ bid / LTA /\nContract documents valuing 21D Crores & above and all tenders related to Handling Contracts\nfor Departmental Warehouses of CMO and L&I.\nPurchase I Contract Procedure 2024 Poge19of44\n........\n(a) The Bidder(s) / Contractor(s) is required to enter into an \"Integrity Pact\" with the Principal i.e.\nSAIL. The Integrity Pact is tr0 be signed by the Proprietor/Owner/Partner/Directoror by their\nduly Authorised Signatory. In case of failure to return the Integrity Pact along with the offer /\nbid, duly signed by the authc>rity as mentioned above, will disqualify the offer I bid.\n(b) In the tender documents it should be specified that the Bidder(s)/ Contractor(s), if aggrieved,\nmay raise complaints / pass on information, if any, to the Competent Authority / Operating\nAuthority of the Tender/Contract.\nFor effective implementation of Integrity Pact. Independent External Monitors (IEMs) have been\nappointed. Any Bidder / Contractor, if aggrieved with the tendering process may also approach\nthe IEMs directly at their email address provided in NIT or through IP Secretariat (e-mail:\nsail.ip.secretariat@sall.in; sail.ip.secretariat@gmali.com), 16th Floor, Scope Minar, Laxmi Nagar\nDistrict Centre, Delhi - 110092.",
+        "subsubheadings": {}
+      },
+      "6.16": {
+        "title": "TENDER DOCUMENTS",
+        "content": "",
+        "subsubheadings": {
+          "6.16.1": {
+            "title": "Format for quoting prices, wherever applicable, may preferably be provided with NIT.",
+            "content": ""
+          },
+          "6.16.2": {
+            "title": "Invitation to the tender, includ ing instructions to tenderers, should be issued in prescribed",
+            "content": "proforma (to be designed by each PlanV Unit category-wise).The invita tion to tender should\ninclude General Terms and Conditions of contract of SAIL Plants/ Units, as applicable to the\ncase, i.e.,\ni) for purchases only,\nii) for job/ service contracts only including conversion, handling, hiring etc.\niii) contracts governing supply and supervision of Plant, Machinery and Equipment and\niv) contracts for supply and en3ction.\nThe tender documents should include detailed specifications and wherever applicable the\nStandards for specifications and drawings, etc."
+          },
+          "6.16.3": {
+            "title": "The Special Terms & Conditions applicable to supplies / contracts such as stipulations made",
+            "content": "under Paras 6.4 to 6.15 along with conditions for inspection, testing, acceptance and\nperformance guarantee should be clearly defined and made part of the tender documents."
+          },
+          "6.16.4": {
+            "title": "Bidders shall be required to submit a single composite undertaking that they have read,",
+            "content": "understood and accepted the contents of tender Including related clauses and that they affirm\n/ certify the same including providing of data as required hereunder:\na) Bid Securing Declaration,\nb) Non-Collusive tendering,\nc) Authenticity of documents submitted for bid evaluation,\nd) The person or team r,epresenting the bidder is not representing any other firm\nparticipating against the tender and if yes, the details thereon to be provided,\ne) Relationship of Proprietor / Partner I Director of the firm/ company, within the meaning of\nSection 2 (77) of the Companies Act 2013 with any employee working in Plant I Unit\nconcerned or Director of SAIL including Its subsidiaries. The details thereon to be\nprovided in case relationship exists,\nf) Minimum Local Content, as applicable,\ng) Compliance related to Land Border sharing requirements, if applicable,\nh) Conflict of Interest in case, if applicable,\ni) Anti Bribery Management System (ABMS) declaration.\nSuch undertaking shall be taken in physical form in case facility for onfine submission of\nundertaking is not available."
+          }
+        }
+      },
+      "6.17": {
+        "title": "METHOD S FOR CALLING OF TENDERS",
+        "content": "",
+        "subsubheadings": {
+          "6.17.1": {
+            "title": "The following methods for calling of tenders shall be adopted :",
+            "content": "i) Single Part Tendering\nii) Two (2) Part/ Three (3) Part Tendering\nPurchase I Cantract Procedure 2024 Page 20a/44\nIn case of physical bids, the tenderers shall be instructed to enclose each part in a separate\nsealed cover, clearly inscribiing on the top of each envelope the relevant part number and\ndescription along with tender reference number and date of opening and submit all the parts\nsimultaneously in a bigger s13aled cover clearly inscribing on the top of the cover the tender\nreference number and the date of opening."
+          },
+          "6.17.2": {
+            "title": "Single part tendering should be adopted only when all technical and commercial terms are",
+            "content": "well defined / stipulated in the tender document and are not negotiable. Conditional bids, i.e.,\nbids not adhering to the tendered technical terms, will be rejected. However deviation in\ncommercial terms can be accepted and evaluated where suitable loading has been pre\ndetermined and mentioned in the tender document ."
+          },
+          "6.17.3": {
+            "title": "In case the technical specifications and / or commercial terms are not firm / deterministic /",
+            "content": "frozen, 2 / 3 part quotations !>hall be invited.\na) Two part tendering involves calling for tenders in two parts:\ni) Part I: Tender comprising Integrity Pact (if applicable) and techno-comme rcial offer,\ncovering all terms except the price,\nii) Part II: Tender comprising the price bid only.\nb) Three (3) part tendering involves calling for tenders in three (3) parts:\ni) Part I: Tender comprising Earnest Money,\nii) Part II: Tender comprising Integrity Pact (if applicable) and techn o-commercial offer,\ncovering all terms except prices,\niii) Part Il l: Tender comprising the price bid only."
+          },
+          "6.17.4": {
+            "title": "The price bids shall be opened (physically or online) / price- discovery shall be done only",
+            "content": "after all the Techno-Commercial terms are settled and samples if applicable are approved."
+          },
+          "6.17.5": {
+            "title": "The time period should depend on the nature of the items to be procured, the nature of work",
+            "content": "involved in the contract, delivery / completion period etc. The following are the indicative time\nperiods to be given for submission of quotation by the tenderers, from the date of tender\nnotice:\ni. Open Tender: Up to 4 weeks\nii. Global Tender: Up to 6 weeks\niii. LTE (indigenous): Up to 3 weeks\niv. LTE (imports): Up to t6 weeks"
+          }
+        }
+      },
+      "6.18": {
+        "title": "EXPRESSION OF INTEREST",
+        "content": "Expression of Interest maybe adopted in the following cases where in the first instance it is not\npossible to proceed with tendering . No indent may be required for issuing an EOI.\ni) Cases where new technology is involved and details are not fully known.\nii) Where the tender specifications / commerc ial terms are required to be finalized in\nconsultation with the prospective bidders by calling bidder's conference after receipt of the\nprequalification bid. During the technical discussions other stakeholders who can add value\nto the decision making on technical aspects and evaluation criteria may also be involved.\niii) When prospective bidders are not known and have to be identified.\nBased on the response received in the EOI, tender document may be prepared and processed\naccordingly.",
+        "subsubheadings": {}
+      },
+      "6.19": {
+        "title": "PRE-BID DISCUSSIONS/ MEETINGS",
+        "content": "In all technically complex Projects cases or contract cases requiring clarification, pre-bid\ndiscussions after floating of tender and before submission of bids should be held. The date,\ntime and place of pre-bid discussions should be clearly mentioned in the tender document.\nDuring pre-bid discussions all the queries of the potential bidders must be properly clarified\nand recorded by Tender Committee.\nPurchase I Contract Procedure 2024 Page21 a/44\nIf any change In the specification, terms and conditions in the original tender Is contemplated\nas a result of pre-bid discussions, the same should be broad-based and have the approval of\nthe Competent Authority. According ly, a corrigendum to the original tender is to be issued and\nadvertised on the SAIL Tender Website/ a-Procurement site (for Online Tendering). The copy\nof corrigendum may also be s1ant to all bidders who had participated in the pre-bid discussions.\nSufficient time (at least 1O days) may be given between date of pre-bid discussions and date\nof submission of tenders. In case of corrigendum , sufficient time (at least 10 days) may be\ngiven between date of corrigendum and date of submission of tenders.",
+        "subsubheadings": {}
+      },
+      "6.20": {
+        "title": "CONSTITUTION OF TENDEf;t COMMITTEE",
+        "content": "",
+        "subsubheadings": {
+          "6.20.1": {
+            "title": "Tender Committee (TC) is to be constituted based on the estimated value of the indent. The",
+            "content": "same tender committee shall continue irrespective of the L1 price. However the ordering\nprice is to be approved by th,e Competent Authority as per DOP.\nFor tenders, valuing less than Rs. 2 Crores, the scrutiny and recommendations should be in\naccordance with the prevailing guidelines and as per DOP. Plants / Units can have Standard\nTender Committee for cases below 2 Crores as a Policy.\nFor high value tenders, valuing Rs. 2 Crores and above, the Tender Committee should be\nconstituted with the approval of the Competent Authority preferably while obtaining approval\nfor tender enquiry, but beforei pre-bid discussions ( if applicable) or opening of tender.\nTender Committee should have representatives from (i) Indenting Department, (ii) MM Dept./\nContract Cell/ Contracting Department, (iii) Finance Department {Associate Finance, where\nother Finance Officer(s) are not available} , (iv) Centralized Maintenance Agency or any other\nrepresentative as decided by the Competent Authority."
+          },
+          "6.20.2": {
+            "title": "The functions of the Tender Comm ittee would be as under:",
+            "content": "a) Tender Committee, if re uired, may constitute Technical Evaluation Committees(TEC) &\nCommercial Evaluation Committees (CEC) and also sub-committees. if required, in\nconsultation with the TEC & CEC. The TEC & CEC shall function concurrently. If no TEC\n& CEC has been constituted then function of TEC and CEC, as mentioned below, is to\nbe done by TC.\nb) To monitor the progress made by the TEC & CEC and Consultants.\nc) To examine the recomme ndations of TEC & CEC and Consultants.\nd) To take decision to op,an the price bids (physical or online) or to conduct RA, for\ndetermination of L1 Bidder , after freezing the Technical & Commercial conditions,\nprovided the number of offers at this stage is equal or more than X+2 or approval for\nopening less than X+2 exists. In case of RA, TC is to also decide the strategy of Reverse\nAuction (if price Discovery through RA is already indicated in Tender Document).\ne) To evaluate the price offers, conduct negotiation with L1 tende rer, if required, after taking\napproval of Competent Authority and shall put up the recommendaitons of order\nplacement (after justifying the reasonability of the price) or otherwise to the Competent\nAuthority.\nThe Commlttee should complete the scrutiny and give the recommendations to the\nCompetent Authority within a period of three (3) months from the date of opening of the\ntender or one month from the date of receipt of recommendations from the Technical &\nCommercial Evaluation Committees."
+          },
+          "6.20.3": {
+            "title": "The functions of the Technical Evaluation Committee(TEC) would be as under:",
+            "content": "a) To scrutinize the Technical part of the tender and the recommendations of the\nconsultants / Technical Evaluation Sub- Committee, if any.\nb) To conduct clarification meetings with the tenderers.\nPurchase I Cantract Procedure 2024 Poge22of44\nc) To evaluate the performance of on-going work/contract, if any in SAIL including\nSubsidiaries.\nd) To give the recommendations to the Tender Committee.\ne) To assist the Tender Committee, if required.\nThe TEC should complete the scrutiny and submit the recommendations to the Tender\nCommittee within a period of two months from the date of opening of the tender."
+          },
+          "6.20.4": {
+            "title": "The functions of the Commercial Evaluation Committee (CEC) would be as under:",
+            "content": "a) To scrutinize the Commercial part of the tender and the recommendations of the\nconsultants or Commercial Evaluation Sub- Committee, if any.\nb) To conduct clarification meetings with the tenderers\nc) To give the recommenda,tions to the Tender Committee.\nd) To assist the Tender Committee, if required.\nThe CEC should complete the scrutiny and submit the recommendations to the Tender\nCommittee within a period of two months from the date of opening of the tender."
+          }
+        }
+      },
+      "6.21": {
+        "title": "The HOMM of Plants / Units shall decide the requirement of Performance Bank Guarantee in",
+        "content": "Purchase cases, if required, and the same shall be indicatedin the NIT.\n7.0. RECEIPT ANO OPENING OF OFFERS",
+        "subsubheadings": {}
+      },
+      "7.1": {
+        "title": "The following shall be the recoginized methods for receipt of tender:",
+        "content": "i. Tenders received by Post:\nii. Tenders received by Couirier service\niii. Tenders received through Tender Box. Location of th@ Tender Box is to be indicatedin\nthe Tender Document.\niv. e-Platforms, i.e. EPS, SRM etc.",
+        "subsubheadings": {}
+      },
+      "7.2": {
+        "title": "Tenders received by post shall be sorted out according to the date of tender opening and be",
+        "content": "given to the concerned executiv1es of MM Dept. / Contract Cell/ Contracting Department.",
+        "subsubheadings": {}
+      },
+      "7.3": {
+        "title": "Verified e-mail quotations (only in cases of single part tenders)may also be considered as valid",
+        "content": "quotations if mentioned in the RFQ and if received till the last date/ time of submission of tender\nand indicate item-wise prices, specifications and delivery schedule. However, EMO, wherever\napplicable, is to be submitted prior to the opening of tender.",
+        "subsubheadings": {}
+      },
+      "7.4": {
+        "title": "Except e-tenders, all tenders shall be opened centrally and jointly by an officer each from MM",
+        "content": "Dept./ Contract Cell/ Contractin\\J Department and FinanceDepartment. This provision shall not\napply to Single Tender Enquiries. The Plant / Unit shall fix the days in a week and time for\ntender opening of differentcate9ories/ values.",
+        "subsubheadings": {
+          "7.4.1": {
+            "title": "The single part quotations of the tenderers on whom it has been decided to place trial orders",
+            "content": "only, shall not be opened at this stage. Such quotations shall be opened only after placement\nof orders on regular offers. However, in case of 2 I 3 part quotations, the techno- commercial\nparts of such tenderers will be opened for evaluation but the price bids will not be opened. The\nprocedure for placementof ordlers on trial basis is explained in Para 12.0."
+          }
+        }
+      },
+      "7.5": {
+        "title": "The tender box/ e-tender shall lbe opened immediately after specified closing time on the last",
+        "content": "day of submission of tender. ThH Tender Box shall be opened in the presence of an executive of\nMM Dept. / Contract Cell/ Contracting Department, in-charge of tender opening for the day.",
+        "subsubheadings": {}
+      },
+      "7.6": {
+        "title": "All tenders received by post/ e--mail I courier or through tender box, shall be sorted out by the",
+        "content": "Administration Section I Tender Opening Cell in the presence of the tender opening officers,\nassigned for the purpose and put up for opening after listing in the prescribed register.\nPurchase I Contract Procedure 2024 Page23of 44",
+        "subsubheadings": {}
+      },
+      "7.7": {
+        "title": "For opening the tenders, it is intten ded that a minimum of X+2 offers should have been received",
+        "content": "('X' is the number of supplier/ contractor on whom order is to be placed). In case of physical\nbids, the dealing executive will inform the Tender Opening Cell, the minimum number of offers\nrequired in each case. In casei of 2/3 part quotation, there should be minimum X+2 techno\ncommercially acceptable offers in all cases provided that:\n(a) In case of open / global tenders, if less than the specified (X +2) numbers of\noffers(including single offer) are received; same can be processed (i.e. offers can be\nopened) without going for re-tender / tender opening date extension after taking approval\nof the authority one stage higher than the authority competent to approve the enquiry\nproposal. Alternatively TOD can be extended or case can be retendered with the approval\nof Competent Authority. In case more than one extension of tender opening date is\nrequired, approval of Director In-charge I Director/ Head of Unit shall be required.\n(b) In case of LTE, if less than specified (X+2) number of offers are received in the first\nattempt, a second attemp1t may be made by inclusion of new vendors or extension of due\ndate if there is no scope o,f adding new vendors. In case adequate number (X+2) of offers\nare not obtained even in response to the second attempt, the offers received shall be\nprocessed after taking approval of the authority one stage higher than the authority\ncompetent to approve the enquiry proposal.",
+        "subsubheadings": {}
+      },
+      "7.8": {
+        "title": "Offers received against Single Tender cases can be opened before or after the tender opening",
+        "content": "date by the dealing executive of MM Dept. / Contract Cell/ ContractingDepartment. Where the\noffer is received after the tender opening date such offer will not be considered as late / delayed\noffer in respect of STEs.",
+        "subsubheadings": {}
+      },
+      "7.9": {
+        "title": "For the purpose of opening, physical tenders shall be classified into following categories:",
+        "content": "i. Regular Tender: Received within the due lime and date prescribed in the tender notice\nissuedby MM Dept./ Contract Cell/ Contracting Department against Limited Tender I Open\nTender I Global Tender.\nii. Late I Delayed Tender: Tenders received after the due date and time of receipt prescribed\nin the tender notice issued by MM Dept./ Contract Cell/ Contracting Department against\nLimited Tender/ Open Tender/ Global Tender.\niii. Unsolicited Tenders: Tenders submitted by firms to whom tender enquiries were not\nissued or tender received f'rom firms who have neither purchased tender papers nor paid\nthe tender fee for downloaded tenders, in case of advertised tenders.",
+        "subsubheadings": {}
+      },
+      "7.10": {
+        "title": "Regular tenders (Physical or online) shall be opened on the appointed date and time of tender",
+        "content": "opening.",
+        "subsubheadings": {}
+      },
+      "7.11": {
+        "title": "Delayed/Late Tenders will not be opened.",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "7.12": {
+        "title": "Unsoilcited tender after opening will not be considered. However, in case of LTE issued to",
+        "content": "registered manufacturers, a tender received from the authorized dealer of the registered\nmanufacturer along with the authorisationletter of the manufacturer to whom the enquiry was\noriginally issued shall not be considered as unsolicited. Para 5.3.7 may also be referred.",
+        "subsubheadings": {}
+      },
+      "7.13": {
+        "title": "In the event of a 2/3 part tend1ar received in only one part and not meeting the requirement of",
+        "content": "separate sealed covers, the tender shall not be considered.",
+        "subsubheadings": {}
+      },
+      "7.14": {
+        "title": "Any modification to the original tender by the bidder on its own excluding the changes made",
+        "content": "during pre-bid discussion or during techno-commercial discussion, after due date of tender\nopening shall also be treated as unsolicited and rejected .",
+        "subsubheadings": {}
+      },
+      "7.15": {
+        "title": "Tenders not accompanied by requisite Earnest Money I Earnest Money not received before",
+        "content": "opening of Tender In case o.f e- tender, where Earnest Money is stipulated in the tender\ncondition, shall be treated as invalid.\nPurchase/ Contract Procedure 2024 Page 24 of 44",
+        "subsubheadings": {}
+      },
+      "7.16": {
+        "title": "In case of physical bids, Limited Tenders for indent value of Rs.10 Lakhs and above, and",
+        "content": "Open Tenders shall be open,ed in the presence of such tenderers who might choose to be\npresent at the time of opening. Signaturesof the authorised representatives of the firms\npresent during tender opening shall be obtained. The following informaiton depending upon\n1\nthe part of quotation opened, shall be given to the tenderers present during the opening:\ni. Names of all the tenderers\nii. Details of items offered\niii. Prices, including discount, if any, and other elements\niv. Delivery period\nv. Terms of payment.",
+        "subsubheadings": {}
+      },
+      "7.17": {
+        "title": "In case a person represents more than one tenderer, while witnessingthe tender opening, it",
+        "content": "should be recorded in the fille to examine the possibility of cartel formation and remedial\naction.",
+        "subsubheadings": {}
+      },
+      "7.18": {
+        "title": "Where tenders are issued in 213 parts, only the techno-commerciabl ids (including that of trial",
+        "content": "parties) shall be opened on the tender opening date. The price bid shall not be opened, till the\nreceipt of final technical / commercial recommendations from the indenter / Consultants /\nEvaluation Committee. In case, the quoted techno- commercial bids are in conformity to that of\nthe tend er, the price bids received shall be considered for opening. In case the techno\ncommercial bids need to be discussed and clarified by the tenderers, clarifications should\npreferably be obtained online and if required, physical clarification meetings should be held\nwith them in accordance with clause number 9.2.3.",
+        "subsubheadings": {}
+      },
+      "7.19": {
+        "title": "All the correspondence in respect of clarifications / confirmations, whether it be technical or",
+        "content": "commercial, shall be dealt t'hrough MM Dept./ Contract Cell / Contracting Department I\nConsultants / Evaluation Committee only till the final placement of order. Thereafter, while\nroutine follow up shall be donie by the executing agency under intimation to the MM Dept. /\nContract Cell / Contracting Department. all the matters having financial / commercial\nimplications will still be dealt with by MM Dept. / Contract Cell/ Contracting Department only.",
+        "subsubheadings": {}
+      },
+      "7.20": {
+        "title": "Wherever tender has been invited in physical form, at the time of tender opening, each page",
+        "content": "of the original quotation shall be signed by the tender opening Executives with date.\nAlterations, over-writings or corrections shall be initialed with date.",
+        "subsubheadings": {}
+      },
+      "7.21": {
+        "title": "Wherever basic price or discount. etc.. are Indicated only in figures and there is any over",
+        "content": "writing, such figures shall be mentioned in words and duly signed by the tender opening\nexecutives.",
+        "subsubheadings": {}
+      },
+      "7.22": {
+        "title": "Any columns left blank by the tenderers in their quotation shall be crossed out by the tender",
+        "content": "opening officers and duly initialed.",
+        "subsubheadings": {}
+      },
+      "7.23": {
+        "title": "Each original quotation must be numbered as Y/X where Y will be the running serial number of",
+        "content": "the pages in the quotation; X will be the total number of pages in the quotation received.",
+        "subsubheadings": {}
+      },
+      "7.24": {
+        "title": "All the envelopes including the postal envelopes should also be signed and kept in file.",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "7.25": {
+        "title": "The details of tenders received shall be recorded in the proforma prescribed, duly signed by",
+        "content": "the tender opening officers.",
+        "subsubheadings": {}
+      },
+      "7.26": {
+        "title": "Information regarding receipt of earnest money wherever applicable, or otherwise, shall be",
+        "content": "recorded.",
+        "subsubheadings": {}
+      },
+      "7.27": {
+        "title": "Where for any reason, the due date and / or time of opening the tenders is ext nded, the",
+        "content": "concerned Executive shall intiimate all the firms to whom the tender papers had been sent\nPurchase I Contract Procedure 2024 Page 25 o/44\nirrespective of the number of quotations already received, the revised tender opening date and\ntime.",
+        "subsubheadings": {}
+      },
+      "7.28": {
+        "title": "Where party/parties request for extension In tende r submission date and / or time, the",
+        "content": "extension may be allowed with the approval of Competent Authority for recorded reasons.",
+        "subsubheadings": {}
+      },
+      "7.29": {
+        "title": "RETURN OF UNOPENED PRICE BIOS (FOR PHYSICAL PRICE BIOS)",
+        "content": "The unopened hard copies of price bids of the parties whose offers have not been techno\ncommerc ially accepted and ift has been decided that price bids of such parties will not be\nopened, such un-opened pric1e bids should be returned to the parties within 10 days from the\ndate of price bid opening. In addition to the price bids, invalid, unsolicited and late offers are\nalso to be returned back to parties within 10 days of tender opening.\n8.0. EARNEST MONEY DEPOSIT (EMO)",
+        "subsubheadings": {}
+      },
+      "8.1": {
+        "title": "In order to protect the organiz:ation from Irresponsible offers, Earnest Money Deposit (EMO) or",
+        "content": "Bid Securing Declaration in place of EMO (Refer Para 8.3.2.1) should be taken in all cases of\nOpen Tenders and LTEs. Earnest Money Deposit* is required to be sought from the Bidders\nas per extant guidelines and the same will require the approval of the Competent Authority.\nEMO shall be taken in all procurement cases of Open Tenders with indent value Rs.2 Crores\n& above. However, EMO, may be taken even below Rs 2 Crores, in specific cases where\ncriticality / exigency so warrant, with approval of NHA to Tender Approving authority.\nFurther, In LTE cases where bidders are registered with SAIL or where bidders are as such\nexempt from submission of EMO as per extant government guidelines (e.g., MSEs etc.) the\nbidde rs will be required to surb mit BSD in all tenders irrespective of estimated value of the\ntender.\nThe amount of EMO to be submitted should not be so high as to discourage participation in\ntenders. The amount of EMO is to be specified in the tender document in terms of absolute\nr\nvalue as per the foIIow· ing· in d' ,ca1ve scheduIe:\nTender value*(f) Earnest Money Deposit (f)\nUp to 1 lakh 1000\nAbove 1 lakh to10 lakh:s 5000\nAbove 10 lakhs to 50 lakhs 15000\nAbove 50 lakhs to 2 crores 1 lakh\nAbove 2 crores to10 crores 51akhs\nAbove 10 crores to 25 crores 101akhs\nAbove 25 crores to 50 crores 201akhs\nAbove 50 crores to100 crores 351akhs\nAbove 100 crores to 250 crores 701akhs\nAbove 250 crores to 500 crores 1501akhs\nAbove 500 crores to1000 crores 300 lakhs\nAbove 1000 crores 500 lakhs\n'\"In case where the techno-commercially acceptable vendors are frozen for an extended\nperiod of time and price bids are taken on a periodic basis, EMO amount shall be based\non the estimated value of the particular price discovery cycle.\n8 2 Micro & Small Enterprises (MSEs) / PSUs / Government Undertakings and Co-operative\nSocieties / Start-ups as reco!;;inised by Department for Promotion of Industry and Internal\nPurchase I Contract Procedure 2024 Page 26of44\n··\nTrade (DPIIT) etc., may be exempted from submission of EMO as per extant Government\npolicy. For MSEs, the exemption will be extended on the basis of :\ni) Self-certified copy of Udyam Registration Certificate (URC);\nii) The concerned MSE is registered in the MSME databank and\niii) MSE is registered for the given scope of job / procurement.\nPurchase preference to MSEs shall be provided as per status in the URC and in line with\nextant Government policy/ SAIL guidelines.",
+        "subsubheadings": {}
+      },
+      "8.3": {
+        "title": "Acceptable Modes of EMO/ Security Deposit {SO)/ Performance Guarantee (PG):",
+        "content": "Earnest Money/ Security Deposit / Performance Guarantee may be submitted in the form of\nonline transfer, Demand Draft, Banker's Cheque, Bank Guarantee (BG) or Fixed Deposit\nReceipt (FDR) from any Sch, eduled Commercial Bank except Co-operative and Gramin Bank\nbut shall not be accepted in cash.\nThe tenderers should be ask,ed to submit EMD in a separate envelope (in case of physical\nEMO), and not to enclose the same with any part of the quotation. No request for adjustment\nof earlier dues / outstanding amount with the Company in place of EMO / Performance\nGuarantee shall be entertained.\nIn case the supplier/contractor delays submission of Security Deposit / Performance\nGuarantee, a penalty of 0.2°1<> of the original SD / PG amount per completed day of delay,\nlimited to an amount not excHeding 5% of the original SD / PG amount shall be applicable.\nPayment for executed portion of order/contract should only commence on submission of\nrequisite SD/PG. The same shiould be stipulated in the tender.\nFor cases of Service / Job Cointracts spanning over multiple number of years , there may be a\nprovision in tender for lowering or reducing the Security Deposit in proportion to the balance\nperiod (in multiples of year), wherever feasible.",
+        "subsubheadings": {
+          "8.3.1": {
+            "title": "For contract cases, Plants/ Units may give option to the registered contractors for depositing",
+            "content": "onetime non-adjustable EMD to be decided locally with the approval of Director In-charge /\nDirector/ Head of Unit. However, no interest shall be payable on such deposits."
+          },
+          "8.3.2": {
+            "title": "For all types of Procurement: (Purchase as well as Contract) cases:",
+            "content": ""
+          },
+          "8.3.2.1": {
+            "title": "In place of EMO, Bidders may submit a duly signed Bid Securing Declaration accepting that",
+            "content": "if they withdraw or modify their bids during the period of validity, or if they are awarded the\ncontract and they fail to sigin the contra ct, or to submit a performance security before the\ndeadline defined in the requ,est for bid document. they will be suspended for the PlanVUnit,\nfor a period of six months, from being eligible to submit bids for contracts."
+          },
+          "8.3.2.2": {
+            "title": "If EMO has been taken and the decision on the tender is delayed beyond the initial validity",
+            "content": "period requested in the tender, the EMO should be returned and declaration for Bid Security\nshould be obtained as depicted at Clause No. 8.3.2.1 above."
+          }
+        }
+      },
+      "8.4": {
+        "title": "RETURN OF EARNEST MONEY DEPOSIT",
+        "content": "",
+        "subsubheadings": {
+          "8.4.1": {
+            "title": "In the event the tender of any party is rejected during the course of Techno- Commercial",
+            "content": "Scrutiny and Evaluation, the EMO should be returned to such tenderer within seven (7) days\nfrom the date of rejection of its offer."
+          },
+          "8.4.2": {
+            "title": "In cases where number of somces is pre-decided in NIT as Single Source, the EMO provided",
+            "content": "by the tenderers along with the tenders should be returned to the unsuccessful tenderers\nwithin fifteen (15) days from determination of L1 tenderer.\nIn cases where number of s.ources is pre-decided in NIT as Multiple Sources, the EMO\nprovided by the tenderers along with the tenders should be returned to the unsuccessful\ntenderers within fifteen (15) days from the date of issue of Letter of Acceptance {LOA) or\nPurchase Order, where LOA is: not required to be issued.\nPurchase I Contract Procedure 2024 Page 27of44"
+          },
+          "8.4.3": {
+            "title": "If EMD is not adjusted against Performance Guarantee / Security Deposit as per terms &",
+            "content": "conditions of the tender, the EMD of the successful bidder shall be returned within 15 {fifteen)\ndays of submission of Performance Guarantee/ Security Deposit as per contractual terms.\n9.0. SCRUTINY OF QUOTATIONS"
+          }
+        }
+      },
+      "9.1": {
+        "title": "SINGLE PART QUOTATIONS",
+        "content": "",
+        "subsubheadings": {
+          "9.1.1": {
+            "title": "In case of single part quotations (i.e., when the Technical / Commercial terms are firm and",
+            "content": "not subjected to negotiations and only LTE has been raised as explained under Para 6.1) the\nquotations after opening and scrutiny about their completeness shall be forwarded to the\nindenter wherever required for technical scrutiny or the Tender Committee for techno\ncommercial scrutiny within two days from the date of opening by the MM Dept. / Contract\nCell / Contracting Department. Recommendations by the indenter/ Tender Committee shall\nbe provided after technical / techno-commerc ial scrutiny."
+          },
+          "9.1.2": {
+            "title": "The indenter will send to the MM Dept. / Contract Cell/ Contracting Department its clear-cut",
+            "content": "recommenda tions, either for placement of order / award of contract/ negotiation/\ncancellation, within seven (7) days from the date of receipt of tender by the indenter, after\ntaking approval of Competent Authority. Where the estimated prices and finally assessed\nvalue based on actual prices is beyond the permissible range of variation, the indenter /\ntender committee should specifically comment on the basis of estimation and the\nreasonableness of quoted price.\nIn case the Tender Committee is to give the recommendations for placement of order /\naward of contract/ negotiation / cancellation of tender, the Tender Committee will submit its\nrecommendations with recorded reasons for approval of the Competent Authority."
+          },
+          "9.1.3": {
+            "title": "The parties who quote as er the tendered specifications/ commercial terms will not be",
+            "content": "rejected on the basis of incapability in case of LTE since LTE is issued to proven registered\nparties only. However, t e quotations which do not conform to the tendered\nspecifications/commercial terms (including the conditional offers) will be rejected."
+          },
+          "9.1.4": {
+            "title": "No change in specifications shall be done at Tender Scrutiny stage. In case of any change in",
+            "content": "specifications, re-tendering will have to be resorted to.\n9.2 2/3 PART QUOTATIONS"
+          }
+        }
+      },
+      "9.3": {
+        "title": "In case any specific adverse report is received against a tenderer, as an information or upon",
+        "content": "enquiry made by SAIL, in respect of capabilities and performance of the tenderer, after receipt\nof tender (even after opening of price bid), the quotation/ tender submitted by such tenderer is\nliable to be rejected on the basis of recorded reasons and with the approval of the Next Higher\nAuthority.",
+        "subsubheadings": {}
+      },
+      "9.4": {
+        "title": "OPENING OF PRICE BIDS",
+        "content": "",
+        "subsubheadings": {
+          "9.4.1": {
+            "title": "After completion of the techno-commerc ial scrutiny, as explained in Para 9.2, the price bids",
+            "content": "shall be opened and evaluated. Prior to price bid opening, if approval for opening of less than\nX+2 offers has already been taken at techno-commercial bid opening stage and no further\nrejection of offers has taken place after techno- commercial evaluation , no further approval is\nrequired for price bid opening from the Competent Authority {as defined in 7.7{a)}.\nHowever, in case some offers are rejected during techno- commercial stage, then approval of\nCompetent Author ity {as defined in 7.7(a)} is to be taken again for opening the price bid.\nIf X+2 or more number of offe:rs were available at the techno- commer cial bid opening stage\nand there are less than X+2 offers for price bid opening, prior approval of authority one stage\nhigher than the authority competent to approve the enquiry proposal shall be taken.\nPurchase I Contract Procedure 2024 Page 29 of 44"
+          },
+          "9.4.2": {
+            "title": "The following stipulation should be mentioned in the tender document.",
+            "content": "i) If, in the price structure quoted for the required goods, there is discrepancy between the\nunit price and total price (which is obtained by multiplying the unit price by the quantity),\nthe unit price shall prevail and the total price corrected accordingly\nii) If there is an error in a total corresponding to the addition or subtraction of sub-totals, the\nsub-totals shall prevail and the total shall be corrected; and\niii) If there is a discrepancy between words and figures, the amount in words shall prevail.\niv) Such a discrepancy in a offer should be conveyed to the tenderer asking him to respond\nby a target date and if the tenderer does not agree to Procuring Entity's observation, the\ntender Is liable to be rejected."
+          }
+        }
+      },
+      "9.5": {
+        "title": "COMPARATIVE STATEMENT OF PRICE BIDS",
+        "content": "",
+        "subsubheadings": {
+          "9.5.1": {
+            "title": "The Comparative Statement shall indicate the item wise prices, rebates (if any), taxes, duties,",
+            "content": "packing & forwarding charges, freight & Insurance, etc., as applicable for all the accepted\ntenderers. The factors and the method of their application, which have been prescribed in the\ntender documents (Ref. Para 6.5) will be used while working the overall price in the\nComparative Statement. If any additional factor has emerged during techno-commercial\nclarification meetings, to be adopted for evaluation of the tenders, then in that case an\nopportunity should be given to all the tenderers to confirm such an additional factor to be\nconsidered for evaluation of tenders."
+          },
+          "9.5.2": {
+            "title": "To arrive at a comparable landed cost net of set-off (ITC/ CENVAT etc.) at the Plant, relevant",
+            "content": "IPSS / guideline for tender eva1luation shall be followed."
+          },
+          "9.5.3": {
+            "title": "The evaluated prices as per P'aras 9 .5 .1 to 9.5.2 worked out in the comparative statement for",
+            "content": "different tenderers will be ranked as L1, L2, L3..... L1 being the lowest. The estimated price, as\nper the indent and !ts percentage variation from the total quoted prlc-e worked out as per\ncomparative statement for each tenderer, will also be recorded in the comparative statement."
+          },
+          "9.5.4": {
+            "title": "The evaluated price of the 1 tenderer should be compared with the estimate and the",
+            "content": "reasonability of the offered price may be examined by the Tender Committee I Committee\ncomprising the representatives of Purchase, indenter and Finance. The committee may seek\nadvice of the agency who has prepared the estimates on the reasonablllty of the estimates."
+          },
+          "9.5.5": {
+            "title": "If some or all the items in tlhe tender are parts of the same assembly/ sub-assembly or",
+            "content": "otherwise identified as matching / complimentary parts by the indenter In the Indent (e.g. in\ncase of job contracts if some or all the items of work tendered are to be executed by one\ncontractor only) as expla ined un Paras 2.2.5 and 2.1.3, overall quoted price of all such items/\njobs will be considered while preparing the comparative statement."
+          },
+          "9.5.6": {
+            "title": "For capital sanction/ AMR cases, the price evaluation shall be done by the specified agencies",
+            "content": "/ consultant and final recommendations shall be forwarded to MM Dept. I Contract Cell/\nContracting Department.\n10.0. PURCHASE/CONTRACT PROPOSAL"
+          }
+        }
+      },
+      "10.1": {
+        "title": "As a policy each Plant/ Unit will fix the (+) range for purchase proposals & (±) range for",
+        "content": "contract proposals for deviatio,ns in the estimated price for acceptance of the total evaluated\nprice of tenderers as worked out in the Comparative Statement. This range may be different\nfor different types of indents as well as for different values of indents. The approval of Director\nIn-charge / Director / Head of Unit shall be taken on such ranges of deviation from the\nestimated price, which may be reviewed as and when required.",
+        "subsubheadings": {}
+      },
+      "10.2": {
+        "title": "In case order is to be placed on one party only and the L1 tenderer is within the specified",
+        "content": "range of estimated price. proposal for placement of order on L1 tenderer will be made and\nprocessed.\nPurchase I Contract Proce dure 2024 Page30of 44",
+        "subsubheadings": {
+          "10.2.1": {
+            "title": "In case, none of the tenderer as indicated in Para 10.2, has offered full quantity I scope of",
+            "content": "work, then after taking approval of NHA and recording the reason s for not retendering the\ncase, processing of tender is to be done including opening of price bid. After determination of\nL1 tenderer, he may be ask.ed to confirm full / increased quantity / scope of work; and the\nquantity / scope of work so confirmed shall be ordered on that party. This will be subject to\nmeeting satisfactory capacity / performance criteria. The balance quantity I scope of work, if\nany, can be ordered as follows:\na) All the remaining technically and commercially acceptable tenderers be asked to offer\nmaximum quantity up to the uncovered quantity /scope of work and match L1 price.\nOffers of such tenderers who match L1 price may be accepted for the quantity/scope of\nwork offered by them in oirder of their rankings.\nb) If the full quantity/scope of work is still not covered at L1 price after step (a} above, the\nbalance quantity/ scope of work can either be re-tendered or cancelled with the approval\nof the Competent Authority as per DOP."
+          }
+        }
+      },
+      "10.3": {
+        "title": "In case the order is to be plaoed on more than one tenderer as specified in the indent /Tender",
+        "content": "Document and the L1 price is within the approved limits of estimate or the L1 price has been\nconsidered reasonable / acceptable (post negotiation), then the tenderers will be asked to\nmatch their prices with L1 rate for distribution of the items / jobs to be ordered. Only the\ntenderers, who agree to match their prices with L1 rate, will be considered for the distribution\nof order as per their original ranking.",
+        "subsubheadings": {
+          "10.3.1": {
+            "title": "For splitting the order quantity/scope of work among more than one tenderer, the basis will",
+            "content": "be their original rankings as per the comparative statement. The allocation will be in the\ndescending order with L1 geitting the highest share. The distribution pattern for splitting the\norder into 2/3/4 parties will be broadly as indicated below:-\nln case of distribution for Ratio for Original Ranking L1, L2, L3, L4, L5, L6, L7, L8:\nTwo parties: 70:30\nThree (3) parties: 60:25:15\nFour parties: 50:25:15:1O\nF ive (5) parties: 40:25:15:1O: 10\nSix parties: 35:20:15:10:10:1O\nSeven (7) parties: 30:20:10:10:10:10:10\nEight parties: 25:15:10:10:10:10:10:10\nHowever, capability, capacity and past performance will be kept in view for the allocation of\nquantity to multiple sources. In addition to the above, in case more than one party has the\nsame rank, then their share will be added and equally distributed. For example, if distribution\nis to be made among six parties and two parties have the same ranking of L2 i.e. the original\nrankings are L1, L2, L2, L3, L4, L5, then from the above table, the distribution shall be:\nL1 35%\nL2 17.5% i.e.(20+15}/2=17.5%\nL2 17.5%\nL3 10%\nL410%\nLS 10%\nSimilarly, if three {3) parties have the same ranking, viz.L1, L1, L1, L2, L3, L4, then the\ndistribut ion sha ll be :-\nL1 23.33% i.e. i.e.(35+20+15)/3 = 23.33%\nL1 23.33%\nL1 23.33%\nL210%\nL3 10%\nL4 10%\nPurchase I Contract Proce dure 2024 Page31of 44\nHoweve,r in case of tie among the same ranking parties i.e. in a situation where ranking is\nL1, L1, L2, L3, L3, L3, L4, and only four parties are to be considered for placement of order,\nthe distribution shall be:\nL1 37.5% i.e.{50+25)/2=37.5%\nL1 37.5%\nL2 15%\nL3 10%\nNote: L3 10% and only one party among the three (3) L3 parties to be selected through draw\nof lot in the presence of their representatives."
+          },
+          "10.3.2": {
+            "title": "In case more than one tenderer is qualifying as L1 after price evaluation and the order is not",
+            "content": "to be split, the placement of order shall be done after obtaining decrement from the L1\ntenderers and If still there is .a tie among L1 tenderers, then to discover the final L1, draw of\nlots shall be held in presence of the tenderers who chose to be present."
+          }
+        }
+      },
+      "10.4": {
+        "title": "For job contract cases, if tenderer quotes unworkable rate, i.e., the L1 price is not reasonable",
+        "content": "(less than the lower limit of the allowed range of deviation from the estimated price), such that\nit raises material concerns as to the capability of the bidder to perform the contract at the\noffered price, the tenderer (including all other tenderers under split order which match with L1\nprice or prices considered for placement of order are less than the lower range of estimated\nprice), will be asked to justify the rates quoted. On non-acceptance of justification/ refusal of\nthe same, the bid may be rej,acted with recorded reasons and with the approval of the Next\nHigher Authority. Wherever there are compelling circumstances the tenderer may be asked to\nfurnish Performance Guarantee Bond equal to the amount which will be the difference\nbetween lower limit of the allowed range of deviation from estimated price and the quoted\nprice of tenderers with the approval of the Next Higher Authority to finalise the particular\ntender. In case the tenderers refuse to submit the Performance Guarantee Bond, action will be\ntaken against the tenderer as per Para 6.12 with the approval of the Next Higher Authority on\nsubmission of recorded reasons.",
+        "subsubheadings": {
+          "10.4.1": {
+            "title": "In case the L1 tenderer is a1ble to justify his rate, and found to be workable by the tender",
+            "content": "committee / MM / Contract Cell (as applicable) or credentials of the party are established,\nthen order may be placed with approval as per DOP."
+          },
+          "10.4.2": {
+            "title": "The Performance Guaranteie Bond, wherever required, should be taken in the form as",
+            "content": "prescribed in Para 8.3. In case the contractor has any outstanding amount with the company\nagainst a different tender, the same should not be adjusted for this purpose."
+          }
+        }
+      },
+      "10.5": {
+        "title": "Wherever voluntary reduction in prices is received after opening of the price bid and/or after",
+        "content": "the expiry of time limit fixed for re-bids, such reduction in price will not be taken into account\nfor the purpose of evaluation and ranking for placement of order, while making the purchase/\ncontract proposal. Appropriate recording shall be made in the file to this effect.",
+        "subsubheadings": {}
+      },
+      "10.6": {
+        "title": "Where the voluntary reduction in price ls given by a tenderer, who is otherwise eligible to get",
+        "content": "order on the basis of blds received before the scheduled date and tlm e, the order would be\nplaced at a price taking into account the voluntary reduction offered by the party.",
+        "subsubheadings": {}
+      },
+      "10.7": {
+        "title": "Any purchase preference to MSEs/ Local MSEs/ Ancillary Units/ PSUs/ Government",
+        "content": "Organisations/ Startups as recognised by Department for Promotion of Industry and Internal\nTrade (DPIIT) shall be based on the extant guidelines issued by Government of India.\nAdditionally, \"Minimum Local Content (LC)\" as described in the Public Procurement\n(Preference to Make in India) Order 2017 (As revised on 16th September 2020) and\nsubsequent amendments. if aniy, shall be applicable.\nPurchase I Contract Proce dure 2024 Page32of 44",
+        "subsubheadings": {}
+      },
+      "10.8": {
+        "title": "Recommendations or decisions taken during the tender processing should be based on extant",
+        "content": "rules / guidelines / clarifications available / applicable on the date of making such\nrecommendaitons or decisioins. Review of recommendations or decisions already taken,\nbased on subsequent revision in rules / guidelines / clarifications, should not be done unless\notherwise prescribed in the revision in rules / guidelines / clarifications.\n11.0. PRICE NEGOTIATIONS",
+        "subsubheadings": {}
+      },
+      "11.1": {
+        "title": "There should be no post tender negotiations with L1 except in certain except iona l situations.",
+        "content": "Such exceptional situations would include procurement on Single Tender Proprietary (STP)\nEnquiry, Single Tender Non-Proprietary (STNP) Enquiry, single techno-commercially\nacceptable offer or limited source of supply and items where there is suspicion of a cartel\nformation. The Justification and detalls of such negotiations should be duly recorded and\ndocumented without any loss of time. The justification and details of such negotiations,\nwherever feasible, should be maintained online.",
+        "subsubheadings": {}
+      },
+      "11.2": {
+        "title": "Negotiations, if required, should be conducted with the L1 bidde r only, with the approval of",
+        "content": "Competent Authority. Reasons must be recorded by the Authority / Tender Committee I\nindenter recommending negotiations. However in cases where L1 price obtained is outside the\nupper allowed range of deviation applicable for the Plant I Unit, negotiation may be held ab\ninitio i.e. without any approval. Negotiations should be held by the Tender Committee I\nCommittee consisting of executives from MM Dept./Contract Cell/Contracting Department,\nIndenting Department, Finance Department. The Committee must record reasons and\noutcome of the negotiations.",
+        "subsubheadings": {}
+      },
+      "11.3": {
+        "title": "Where quantities are to be distributed on multiple parties, the other parties L2, L3, L4...... need",
+        "content": "to match the L1 prices. The matching of prices, to avoid placement of order on differential\nprice, shall not be treated as counter offer or negotia tion.",
+        "subsubheadings": {}
+      },
+      "11.4": {
+        "title": "In case L1 backs out, re-tend ering should be resorted to in a transparent and fair manner",
+        "content": "withoutconsidering the backed out tenderer.\nBesides forfeiting the EMO submitted by the said tenderer, the tenderer shall be kept under\nhold without issue of tender enquiries up to next six months including barring participation in\nopen tenders with the approval of concerned HoD.",
+        "subsubheadings": {}
+      },
+      "11.5": {
+        "title": "Asking for discount online or through email or correspon dence shall be permissible.",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "11.6": {
+        "title": "Order on more than one party shall be considered only if such stipulation was made in the NIT",
+        "content": "as explained in Para 6.10.",
+        "subsubheadings": {}
+      },
+      "11.7": {
+        "title": "During price negotiations, changes In the already decided techno- commercial terms shall not",
+        "content": "be allowed and no increase in price is permitted.",
+        "subsubheadings": {}
+      },
+      "11.8": {
+        "title": "The negotiations and decision for placement of order must be completed within the validity",
+        "content": "period of the offers. Wherever necessary, the extension of validity period by the parties\nconcerned should be ensured.\n12.0. TRIAL PURCHASE /WORK OIRDER\n12 .1 The total quantity to be ordered on trial basis shall be determined and approved at the time of\nissue of tender. Tender enquiry for trial order may be issued only with the approval of Head of\nMM /Contract Cell/ Contracting Department subject to approval of Competent Authority as per\nDOP.",
+        "subsubheadings": {}
+      },
+      "12.2": {
+        "title": "After evaluation / negotiation of techno-commercial bids as explained in Paras 9.2.1 and 9.2.2,",
+        "content": "technically suitable parties wilt be selected for consideration for placement of trial order.\nPurchase I Contract Procedure 2024 Page33 o/44\n.....",
+        "subsubheadings": {}
+      },
+      "12.3": {
+        "title": "The price bids of the above mentioned technically suitable trial parties shall be opened and",
+        "content": "evaluated as explained in Para 9.4. The evaluated price of trial parties will be ranked as TL1,\nTL2, TL3.... where TL1 is the lowest evaluated price.",
+        "subsubheadings": {}
+      },
+      "12.4": {
+        "title": "If the evaluated TL1 price is less than or equal to the established L1 rate (received against",
+        "content": "regular tender for the same item), then the trial order for the approved quantity will be placed.",
+        "subsubheadings": {}
+      },
+      "12.5": {
+        "title": "In case trial order is to be distributed among more than one trial parties, the other trial parties",
+        "content": "will be asked to match their prices with TL1 and then the trial quantity will be distributedas per\ntable given in Para 10.3.1.However each party should be given the minimum trial quantity and\nin case this necessitates incirease In trial quantity the same may be considered. No risk\npurchase action shall be taken in trial cases. Detailed trial procedure may be formulated by\nthe individualPlants/ Units.",
+        "subsubheadings": {}
+      },
+      "12.6": {
+        "title": "If TL1 price is more than the e stablished L1 rate, the trial parties in order of their ranking who",
+        "content": "accept L1 rate will be considered for placement of trial order as per Paras 12.4 and 12.5.\n13.0. ISSUE OF ORDER FOR PURCHASE/JOB CONTRACT",
+        "subsubheadings": {}
+      },
+      "13.1": {
+        "title": "The order shall be placed in the standard proforma (designed by respective Plants/ Units)",
+        "content": "after obtaining approval of the Competent Authority as per DOP. The order shall be placed\nwithin the validity of the offer. The order shall also incorporatethe relevant provision of\nUndertaking given by the vendor/ contractor.",
+        "subsubheadings": {}
+      },
+      "13.2": {
+        "title": "The escalation/ variation clau:se, where envisaged or insisted upon, should be carefully drawn",
+        "content": "up, to avoid disputes at a later stage and does not give undue benefit to the\nSuppliers/Contractors. The basic elements on which escalation is agreed upon constituting the\nprice at the time of placement of the order should be verified and their authenticity confirmed\nand the escalation formula and the authentic index to be relied upon for this purpose should\nbe clearly laid down. Base elate for providing escalation/de-escalation should be properly\nindicated in the order / contract.",
+        "subsubheadings": {}
+      },
+      "13.3": {
+        "title": "Alt orders should be self-contained and should have proper stipulations like Payment Terms,",
+        "content": "LiquidatedDamages and Risk Purchase / Contract clauses, etc. to ensure timely supply of the\nmaterial / execution of jobs.",
+        "subsubheadings": {}
+      },
+      "13.4": {
+        "title": "In case a party is selected to supply material/ execute a job contract at higher price against a",
+        "content": "subsequent tender, but whos« supply of the material/ execution of job contract against the\nearlier order at lesser price is not yet complete for reasons attributable to the Supplier /\nContractor, it will be ensured that the supplies are made / jobs executed first against the\nearlier order before being consideredagainst the subsequent order.",
+        "subsubheadings": {}
+      },
+      "13.5": {
+        "title": "The time for award of contract should not ordinarily exceed 0+30 working days, where D is the",
+        "content": "date of determination of L1 bidder. For this, after examining the reasonability of the discovered\nL1 price with proper justification, Purchase or Contract Proposal, as the case may be, should\nbe put up to the Competent Authority within the following:\na) 0+7 working days from the date of determinaiton of L1 bidder, in normal situations,\nwhere no negotiation was required to be held.\nb) 0+21 working days from the date of determination of L1 bidder, in exceptional situations\nwhere negotiation(s) with the L1 bidderwere also held.\nFor Project cases, wherever multi-stage approval from Higher Authorities are required, over\nand above the 0+30 working days as above, an additional maximum of 15 days should be\nassigned for clearanceat each level or a maximum of total 60 days, whichever is less.",
+        "subsubheadings": {}
+      },
+      "13.6": {
+        "title": "Any order placed / work awarded on Single Tender Non-Proprietary (STNP) basis valuing",
+        "content": "Rs.1 Crore & above shall be reported to SAIL Board on quarterly basis. Plants / Units to\nPurchase I Contract Procedure 2024 Page34 o/44\n.......\ne volve their own system for such reporting. Internal Audit is required to check at least 10% of\nsuch cases.",
+        "subsubheadings": {}
+      },
+      "13.7": {
+        "title": "POSTING OF CONTRACT DETAILS: All contract details for orders placed outside GeM",
+        "content": "should be posted on SAIL Tender website as well as CPP portal as per the extant provisions /\ndirection of the Govt. of India.\n14.0. EXTENSION OF DELIVERY/CONTRACT PERIOD AND LIQUIDATED DAMAGES (LD):",
+        "subsubheadings": {}
+      },
+      "14.1": {
+        "title": "Liquidated Damages shall be levied against Suppliers/Contractors In case of delay in supply of",
+        "content": "materials/execution of contrac;t beyond the date of delivery / completion of job specified in\nPurchase Order/ Contract. If the delay in completion of supply/ execution of job is attributable\nto SAIL or Force Majeure only,, li quidateddamages will not be levied.",
+        "subsubheadings": {}
+      },
+      "14.2": {
+        "title": "Extension of delivery / pre-ponement of contract period may be granted by the competent",
+        "content": "authority as per DOP.",
+        "subsubheadings": {}
+      },
+      "14.3": {
+        "title": "For the portion of delay which is attributable to SAIUForce Majeure or to the Supplier",
+        "content": "/Contractor. the case shall be dealt with as follows:\nA. Delay attributable to SAJUForce Majeure\nLD Not Applicable\nTaxes& Duties Any increase in taxes and duties on account of statutory increase,\nfresh imposition of any duty or taxes which take place during such\nextended period shall be admissible/ availed.\nPrice Variation Price variation, if indicated in the PurchaseOrder / Contract, shall be\napplicable during such extended period.\nB. Delay is attributable t:o Supplier/Contractor\nLD Applicable\nTaxes & Duties Increase / fresh imposition of taxes and duties during the extended\nperiod wiill be to the account of the party. However, the same will be\nadmissible to the extent for which Input Tax Credit (ITC) is admissible\nagainst these levies. Any decrease in taxes and duties during the\nextended! period will be availed of.\nPrice Variation Price variation, if indicated in the Purchase Order / Contract will be\napplicabl,e for the quantity supplied I work performed within the\nscheduled period of Purchase Order / Contract. For supplies made I\nwork ex1 cuted during the extended delivery period, the rates as\nprevailin on the last day of the scheduled delivery / contract period\nonly mai1 be paid. De-escalations /reductions, if any, which takes\nplace, shall have to be passedon to SAIL.",
+        "subsubheadings": {
+          "14.3.1": {
+            "title": "For ProjecVAMR cases, relevant clause of SBD may be referred to.",
+            "content": "15.0. AMENDMENTS TO PURCHASE/CONTRACT ORDER\nAmendments to the Purchase / Contract Order should be rare. In exceptional cases,\namendment may be issuedfor the recorded reasons with the approval of Competent Authority\nas per DOP.\n16.0. PAYMENT TERMS"
+          }
+        }
+      },
+      "16.1": {
+        "title": "Payments should be made strictly according to terms & conditions as Indicated in Purchase",
+        "content": "Order (PO)/ Contract. Deviation, if any, in payment terms should be approved by Competent\nAuthority with the concurrence of Head of Finance of respective Plant/ Unit.\nPurchase I Contract Procedure 2024 Page35 af44\n.... \"'\n16 . 2 In case where delivery period has expired, documents sent through Bank should be released\nonly on approval of the Competent Authority based on recorded reasons. Such approval\nshould be obtained within two (2) working days. In the case of payments through Bank, the\nAccounts Department after receipt of necessary advice from the concerned Bank will make\npayment to the Bank as per the terms of Purchase Order. In case the Accounts Department\nfinds any discrepancy and is not able to get the documents released within two (2) days, they\nwill seek the instructions of MM Dept./ Contract Cell/ Contract Operating Department in writing\nand act accordingly. The do,cuments thus received should be handed over to the Stores\nDepartment under intimation to the MM Dept.",
+        "subsubheadings": {}
+      },
+      "16.3": {
+        "title": "Before release of final payment, the following should be ensured by the Accounts Department",
+        "content": "except where 100% payment is made through Letter of Credit (LC)/ Bank against dispatch\ndocuments or 100% against proforma invoice.\ni) The material both in quantity & quality and specification has been duly received as\nstipulated in the Purchase Order and has been taken on record by the Stores Department,\nevidenced by GARN and / or other specified documents.\nii) The recoveries which are to be made from the party have been made.",
+        "subsubheadings": {}
+      },
+      "16.4": {
+        "title": "Running Account bills if payable as per contract and submitted by the contractors will be",
+        "content": "certified by the Operating Auth ority for the quality and volume of work executed and recorded\nin the Measurement Book. Bills of work executed by the contractor shall be jointly signed by\nthe Operating Authority or his authorized representative and the contractor. These running\nbills will be sent to Finance for payment by the Operating Authority under acknowledgment\nobtained from the Finance Department",
+        "subsubheadings": {}
+      },
+      "16.5": {
+        "title": "To check fraudulent payment of bills, each PlanVUn it should prepare elaborate system for",
+        "content": "inter-department forwarding / receipt I acknowledgment of various documents. Proper s ystem\nof numbering the bills also be laid down to avoid duplicate payments.",
+        "subsubheadings": {}
+      },
+      "16.6": {
+        "title": "The Accounts Department should immediately on receipt of a bill, exam ine the availability of",
+        "content": "all supporting documents. In c:ase of discrepancies, the dealing officer within two days of the\nreceipt of the bill should refer the matter in writing to the MM Dept.I Contract Cell/ Contract\nOperating Authority.",
+        "subsubheadings": {}
+      },
+      "16.7": {
+        "title": "Bills completed in all respect received by Finance Department should be paid on First in First",
+        "content": "out (FIFO) basis. However, for Micro & Small Enterprises (MSEs), payment shall be made\nwithin the statutorily defined pmiod as per extant GOI Rules/Guidelines.",
+        "subsubheadings": {}
+      },
+      "16.8": {
+        "title": "For any bill complete in all respect, pending with Finance where payment has been delayed",
+        "content": "beyond 30 days from due da,te, the details along with reasons, should be displayed on Intranet\nportal by the Head of Finance of Plants / Units and a copy of the same should be forwarded to\nthe respective Vigilance Department and HOMM / HOP (for Projects cases), on a monthly\nbasis.\n17.0. TAXES",
+        "subsubheadings": {}
+      },
+      "17.1": {
+        "title": "Supplier must furnish/ upload the necessary documents for availing of GST Input Tax Credit",
+        "content": "(ITC) as per GST Law. This shall be ensured before releasing any payment to the Supplier\nafter verification of GSTR 2A/any other documenVform specified under extant GST Law.",
+        "subsubheadings": {}
+      },
+      "17.2": {
+        "title": "In case of supply of Goods & Services, GST number of both Buyer and Seller should be",
+        "content": "mentioned in the contract.\n18.0. CANCELLATION OF PURCHASE l CONTRACT AND RISK PURCHASE",
+        "subsubheadings": {}
+      },
+      "18.1": {
+        "title": "When it Is intended to cancel t.he Purchase Order or Contract or Work Order, which has been",
+        "content": "kept alive after expiry of deliv,ery period by the conduct of parties, it is necessary to issue a\nnotice to the concerned party before actual cancellation giving a period of fifteen days or such\nperiod as Law Department may advise for supply of material/ completion of pending job/ ,ork\nPurchase I Contract Procedure 2024 Page36of44\n\"''\nwithout prejudice to our rights, to recover LO as per terms of the contract. Where the order is\nnot kept alive beyond deliv,ery/contract period by implication or conduct of the parties,\ncancellation should be issued by the MM Dept. / Contract Cell/ Contracting Department\nimmediately in consultation with Indenting / User department, with the approval of Next Higher\nAuthority, after expiry of the delivery/ completion period stating that quantities/job incomplete\non the due date are cancelled and risk purchase will be made in terms of the relevant clause\nof the tender conditions of the contract. However, before initiating the process for placement of\nalternate order on risk purchase or for cancellation of original order on the defaulting party,\napproval of the next higher authority should be taken. Wherever necessary, Law Department\nshould be consulted to protect the interests of the Plant / Company.",
+        "subsubheadings": {}
+      },
+      "18.2": {
+        "title": "Notice for execution of order on risk & cost can be issued during valid period of contract also if",
+        "content": "vendor/ contractor either fails to start the work I supply within reasonable time, the progress of\nthe work / supply is poor or for any breach of contract.",
+        "subsubheadings": {}
+      },
+      "18.3": {
+        "title": "For Risk Purchase action after issue of notice to the defaulting party, a tender enquiry will be",
+        "content": "issued excluding/ disallowing the defaulting party for finalization of order on alternate source.\nPreferably the date of tender opening of the alternative tender enquiry and the expiry of risk\npurchase notice to the defaulting party should be about the same time. Notice should be given\nto the defaulting party with a view to providing it with last chance to effect supply / to complete\nthe work and as such its response should be taken into account before deciding on the\ncancellation or alternate procurement through risk purchase. The decision to place order on\nalternate party/contract or on risk purchase or cancellation of the original order should be\ntaken after consideration of the response of the defaulting party and the receipt of the offers\nagainst the enquiry.",
+        "subsubheadings": {}
+      },
+      "18.4": {
+        "title": "After expiry of notice period and on finallzation of the alternate purchase order / contract the",
+        "content": "left-over / un-serviced quantity in the original purchase order/contract should be cancelled and\nnew order should be placed.",
+        "subsubheadings": {}
+      },
+      "18.5": {
+        "title": "The Risk PO /WO should as far as possible be on the same terms & conditions as the original",
+        "content": "PO/WO (apart from delivery time) i.e., the goods should be of the same specifications, etc.",
+        "subsubheadings": {}
+      },
+      "18.6": {
+        "title": "It should be ensured that Risk PO/ WO is concluded within a reasonable time.",
+        "content": "",
+        "subsubheadings": {}
+      },
+      "18.7": {
+        "title": "For details of actions to be taken, the Standard Risk Purchase Procedure published by CMMG",
+        "content": "may be referred to.\n19.0. VENDOR DEVELOPMENT",
+        "subsubheadings": {}
+      },
+      "19.1": {
+        "title": "It shall be the continuous endeavour on the part of all Plants / Units to find out and/ or develop",
+        "content": "substitutes / sources of sup, ply with a view to reducing cost of input materials / services.\nConsiderationshould be given to save foreign exchange.",
+        "subsubheadings": {}
+      },
+      "19.2": {
+        "title": "To achieve this objective, Director In- charge/ Director / Head of Unit shall constitute a Vendor",
+        "content": "Development Cell (VDC) under HOMM which will co-ordinate and monitor all related activities.",
+        "subsubheadings": {}
+      },
+      "19.3": {
+        "title": "The need to develop a Vendor for an item /services shall be identified by MM Dept./",
+        "content": "concerned shop and shall be a1pproved by concerned HOD. The requisition for such items\nshall be made by concerned d13partmenU MM Dept. with the approval of the Competent\nAuthority and shall contain :\na) The existing practices/ material/ technology and their shortcomings;\nb) The proposed practice/ material/ technology and the anticipated cost-benefit analysis;\nc) Minimum quantity for conducting trial;\nd) Minimum period for conducting trial.",
+        "subsubheadings": {}
+      },
+      "19.4": {
+        "title": "Such proposals may be scrutinised by a Committee comprised for this purpose under HOMM.",
+        "content": "One month before the beginniing of each financial year, the Committee shall Identify the items\n'&\nPurchase I Contract Procedure 2024 Page37of44\nand in consultatlon with VDC .and the annual budget for the same would be got approved from\nthe Director in-Charge/ Direct.or/ Head of Unit.",
+        "subsubheadings": {}
+      },
+      "19.5": {
+        "title": "Before issuance of tender enquiry, the replacement specifications, functional requirements,",
+        "content": "input conditions, performance norms, relevant drawings, inspection procedures, method of\nconducting trl als and outputs, etc., are to be worked out and finalised by the indenter/\nconcerned department in consultation with Design Department R&D, other Technical\nConsultant Departments including GET or RDCIS or any other Consultant. The proposal shall\nalso indicate the stage and final inspection criteria. procedures and methods of conducting\ntrial.",
+        "subsubheadings": {}
+      },
+      "19.6": {
+        "title": "Final acceptance of the item developed shall be done after field trial. The trial should be",
+        "content": "completed within the stlpulated period from the date of receipt of material.",
+        "subsubheadings": {}
+      },
+      "19.7": {
+        "title": "Evaluation of Performance: The trial shall be monitored by a Committee constituted for the",
+        "content": "purpose by the concerned Direct Reporting Officer (ORO) to the Directorin- Charge / Director\n/ Head of Unit.",
+        "subsubheadings": {}
+      },
+      "19.8": {
+        "title": "The firms who successfully develop an item shall be encouraged with the placement of repeat",
+        "content": "order as per Para 5.5 and such firms are then to be dealt with under the relevant !PSS for the\nfuture.",
+        "subsubheadings": {}
+      },
+      "19.9": {
+        "title": "In case IPSS are prepared and issued on Vendor Developmen,t the procedure laid down",
+        "content": "therein would be followed.\n20.0. CLOSURE OF CONTRACT",
+        "subsubheadings": {}
+      },
+      "20.1": {
+        "title": "All contracts where jobs have been completed in all respects including period of warranty I",
+        "content": "guarantee after its completion / commissioning,Final Acceptance Certificate should be issued\nwithin one month thereafter.",
+        "subsubheadings": {}
+      },
+      "20.2": {
+        "title": "Operating Authority shall process the final bill of the contractor as per the check-list to be",
+        "content": "designed by each Plant / U1nit for closure of the contract for submission to the Finance\nDepartment, along with the Final Acceptance Certificate.",
+        "subsubheadings": {}
+      },
+      "20.3": {
+        "title": "The final bill of the party shall be checked and passed by Finance Department and shall be",
+        "content": "released to the contractor as pier laid down procedure to be developedby Plants / Units.\n21.0. PRICE DISCOVERY THROUGH REVERSE AUCTION (RA)\nStandard Procedure for Reverse Auction (RA) issued by CMMG and amendments made\nthereto, if any, shall be followed.\n22.0. BANNING OF SUPPLIERS/ CONTRACTORS\nIn case of default, bad performance, fraud, deception and misconduct, etc. by any Supplier /\nContractor I Vendor, action m:ay be taken as per the instructions issued by SAIL from time to\ntime w.r.t \"Guidelines on B:anning of Business Dealings.\" Summary details of banned\nSuppilers / Contractors with reasons and period of banning shall be uploaded by the\nrespective Plant/ Unit on SAIL. Tender Website.\n23.0. PROCEDURE FOR SMALL VALUE PURCHASES OF MATERIALS",
+        "subsubheadings": {}
+      },
+      "23.1": {
+        "title": "SCOPE:",
+        "content": "a. This procedure shall apply to indents of low value (above Rs.25,000/- and below Rs.\n5,00,000/). For indent value up to Rs.25,000/-, procurement thr ough imprest (up to\nRs.25,000/-) or by any other mode like GeM (Direct Purchase on GeM) may be done, if\npossible.\nPurchase I Contract Procedure 2024 Page38o/44\nb. The same item shall not be procured more than twice in a year by an Individual\nDepartment and its cumulative value shall be less than Rs. 5,00,000/- per year. A\ncertificate to this effect shall be given by the Head of the Indenting Department.\nc. Items valued as above, may be clubbed into one indent having the same set of Vendors.\nHowever, the total indent Value shall be less than Rs. 5,00,000/-.\nd. Emergency purchase shall not be covered under this procedure.\ne. For procurement of ne items, necessary approval shall be taken as per DOP of the\nPlants / Units",
+        "subsubheadings": {}
+      },
+      "23.2": {
+        "title": "PROCEDURAL STEPS:",
+        "content": "",
+        "subsubheadings": {
+          "23.2.1": {
+            "title": "Raising of indent",
+            "content": "a) Indents are to be raised based on availability of items in stores, dues-in, safety stock\nlevel and consumption pattern of the Department within the allocated Budget.\nb) Re-appropriation of the Budget allocated to a particular Department for procurement of\nsmall value items shall not be done.\n23 2.2 Estimated Value\nEstimate should be realistic with adjustment for variat ions in the prices of various elements\nincluding market conditions."
+          },
+          "23.2.3": {
+            "title": "Issue of Tender Enquiry",
+            "content": "a) LTE shall be sent to minimum 3 vendors. All registered vendors should be included. It\nshould include the last supplier unless there is a satisfactory recorded reason to exclude\nthem on performance lbasis. This shall be approved as per normal DOP. Dealers /\nTraders having required GST Registration can also be considered.\nb) Tender Enquiry should mention that the following shall apply and no deviation would be\naccepted:\ni. Specifications must be accepted by the Tenderer. Offers not conforming to\ntendered specifications shall be summarily rejected.\nii. Prices must remain firm during currency of the contract.\niii. To the extent possible, materials are to be dispatched in one consignment.\niv. Orders shall be placed on single source.\nc) In case of LTE to 2 firms, clearance of concerned HOD of the Indenting Department for\nindent and approval of Next Higher Authority as per DOP in MM for issue of enquiry is to\nbe obtained.\nd) Indents for single tender (non-proprietary) will be cleared by Head of Works / MM /\nProject / Medical / Finance in their respective areas and approval for issue of enqu iry\nshall be obtained from HOMM."
+          },
+          "23.2.4": {
+            "title": "Opening of offers",
+            "content": "Wherever less than X+2 offers are received, the case shall be processed with approval of\nNext Higher Authority (NHA)."
+          },
+          "23.2.5": {
+            "title": "Placement of Order",
+            "content": "a) In case of procurement of multiple items in an indent, the overall lot L1 Landed Cost Net\nof Input Tax Credit (LCNITC} shall be consideredfor placement of order even if the items\nare non- matching.\nb} In case L1 Price exceeds approved range of % deviations. the same, if required, be\nconsidered with approval of Next Higher Authority than the original approving authority\nas per DOP of MM, provided the prices are considered reasonable as per the prevailing\nmarket trend.\nPurchase I Contract Procedure 2024 Page30of44\nc) In case L1 offer is not considered reasonable , MM Department may correspond directly\nwith the party to bring it in approved range with the approval of Next Higher Authority. In\ncase the prices still remain outside approved range of % deviation the same may be\nconsidered for placement of order with the approval of Next Higher Authority, if prices\nare considered reasonable as per prevailing market trend, failing which re- tendering\nmay be resorted to with the approval of Next Higher Authority.\nd) In case L1 backs out, re-tendering should be resorted to in a transparent and fair manner\nwithout considering the backed out tenderer.\nThe tenderer shall be kept under hold without issue of tender enquiries up to next six\nmonths including hold on participation In open tenders with the approval of concerned\nHoD.\ne) To the extent possible, supply against the orders under this procedure should be\ncompleted in one lot within the scheduled delivery period."
+          }
+        }
+      },
+      "23.3": {
+        "title": "Pre-dispatch inspection shall not be applicable unless otherwise specified& materials shall be",
+        "content": "accepted against Test Certificate/ Guarantee Certificate (GC) / Warranty Certificate (WC).\n24.0. PROCEDURE FOR SMALL VALUE JOB/SERVICE CONTRACTS",
+        "subsubheadings": {}
+      },
+      "24.1": {
+        "title": "SCOPE:",
+        "content": "a) This procedure shall apply only to indents of low value (above Rs.25,000/- and below Rs.\n5,00,000/-). services / job contracts. For indent value up to Rs.25,000/-, procurement\nthrough imprest or by any other mode like GeM (Direct Purchase on GeM) may be done, if\npossible.\nb) The same job/ service will not be contracted out more than twice a year by an individual\ndepartment and its cumulative value shall be less than Rs. 5,00,000/- per year. A\ncertificate to this effect shall be given by the Head of the Indenting Department. However\nscreening shall have to be done as per Clause 3.2.\nc) Emergency job/service contracts shall not be covered under this procedure.",
+        "subsubheadings": {}
+      },
+      "24.2": {
+        "title": "PROCEDURAL STEPS:",
+        "content": "",
+        "subsubheadings": {
+          "24.2.1": {
+            "title": "Raising of Indents",
+            "content": "Re-appropriation of the Budf et allocated to a particular Department for small value contract\nshall not be done.\n24 2.2 Estimated Value\nEstimate should be realistic with adjustment for variations in the prices of various elements\nincluding labour rates, wages, etc."
+          },
+          "24.2.3": {
+            "title": "Issue of Tender Enquiry",
+            "content": "a) LTE shall be sent to minimum 3 contractors. All registered contractors should be\nincluded. It should Include the last contractor unless there is satisfactory recorded reason\nto exclude them. This shaill be approved as per normal DOP.\nb) In case technical terms/ specifications are frozen, Single Part Quotation may also be\ncalled.\nc) Tender Enquiry should mention that the following shalt apply and no deviation would be\naccepted:\ni) Tender terms/specifications must be accepted by the tenderer. Offers not conforming\nto tendered specification, terms & conditions, shall be summarily rejected.\nii) Prices must remain firm during the currency of the contract.\niii) Job shall be awarded to one contractor .\nPurchase I Contract Procedure 2024 Page40of44\nd) In case of LTE to 2 firms, clearance of concerned HOD of Indenting Department for\nindent and approval of Next Higher Authority as per DOP for issue of enquiry is to be\nobtained."
+          },
+          "24.2.4": {
+            "title": "Opening of Offers",
+            "content": "Wherever less than three (3) offers are received, the case shall be processed with approval\nof Next Higher Authority."
+          },
+          "24.2.5": {
+            "title": "Placement of Order",
+            "content": "a) Order shall be placed on overall L1 tenderer.\nb) In case L1 Price exceeds approved range of % deviations, the same, if required, be\nconsidered with approval of Next Higher Authori ty than the original approving authority as\nper DOP, provided the prices are considered rea sonable as per the prevailing market\ntrend.\nc) In case L1 offer is not considered reasonable, Contract Cell/ Contracting Department\nmay correspond directly with the party to bring it to approved range with the approval of\nNext Higher Authority. In case the prices still remain outside approved range of %\ndeviation, the same may be considered for placement of order with the approval of Next\nHigher Authority, if prices are considered reasonable as per prevailing market trend,\nfailing which re-tendering may be resorted to with the approval of Next Higher Authority.\nd) In case L1 backs out, re-tendering should be resorted to in a transparent and fair manner\nwithout considering the backed out tenderer.\nThe tenderer shall be kept under hold without issue of tender enquiries up to next six months\nincluding hold on participation in open tenders with the approval of concerned HoD.\n25.0. GENERAL"
+          }
+        }
+      },
+      "25.1": {
+        "title": "The employees associated with award/execution of contracts and purchase of items shall also",
+        "content": "ensure that:\na) relevant provision of SAIL CDA Rules, 1977 are complied with,\nb) while dealing with relations, the relative shall be as defined in the Companies Act, 2013.",
+        "subsubheadings": {}
+      },
+      "25.2": {
+        "title": "Tender enquiry format shouldl have a clause making it compulsory for a bidder to declare",
+        "content": "whether:\na) the Proprietor / Partner I Director of the firm/ company has any relationship within the\nmeaning of Section 2(77) of the Companies Act 2013 with any of the employee working in\nthe Plants / Units concerned or Director of SAIL including its subsidiaries and if so, give\nthe details.\nb) the person or team representing the firm is also representing any other firm participating\nagainst the tender and if so, give the details thereon.\nc) Non-disclosure/ Incorrect disclosure of both the above details factually by a firm either on\nits own while submitting its offer or upon enquiry at the option of SAIL during the scrutiny\nof its offer may invite penal action against the firm, which may include rejection of the\noffer, suspension of busineiss dealings or both.\nStandard format shall be used for declarations as per Para 6.16.4.",
+        "subsubheadings": {}
+      },
+      "25.3": {
+        "title": "In all cases of procurement of goods or services, for better transparency and accountability,",
+        "content": "electronic mode of communication shall be used. Physical tendering shall be resorted to with\nthe approval of HOMM, only in cases which are not found feasible to be processed on ERP/\nSRM, EPS, GeM or any other web-based system and only with the recorded reasons.",
+        "subsubheadings": {}
+      },
+      "25.4": {
+        "title": "The procuring entity shall maintain and retain audit trails, records and documents generated or",
+        "content": "received during its procurement proceedings, in chronological order. The files will be stored in\nan identified place and retrievable for scrutiny whenever needed without wastage of time.\nPurchase I Contract Procedur e 2024 Page 41 of 44\nFORMAT FOR UNDERTAKING TO BE UPLOADED/ SUBMITIED BY THE AUTHORIZED SIGNATORY OF\nTHE BIDDER ON ITS LmERHEAD ALONGi WITH THE TENDER DOCUMENTS\nI ..................................................... (Name .and Designation) duly authorized to sign the bid for and on\nbehalf of M/s .........................................................(herein after called the bidder) for the purpose of Tender\nNo................................ of ( Plant/Unit SAIL, Place ), do hereby solemnly affirm\nand state, on the behalf of the bidder including its consti tu ents, as under:\nI/We have read the contents of the above mentioned tender carefully and understand that my/ our\noffer will be evaluated based on the documents/ credentials submitted along with the offer and same\nshall be binding upon me/us. I/We undeirtake and warrant that in relation to the aforesaid tender, our\nbid was developed genuinely, independently and made with the intention to accept the Contract, if\nawarded.\n1. BID SECURING DECLARATION:\nI/ We agree that if I/We withdraw or modify our Bid during the period of validity, or if I/ We are\nawarded the contract and I/ We fail to sign the contract, or to submit a performance security before\nthe deadline defined in the request for bids document, I/We will be liable to be suspended for a\nperiod of six months from being eligible to submit bids against all future tenders of Plant/Unit\nSAIL, Place _\n2. UNDERTAKING FOR NON-COLLUSIVE TENDERING:\nI/We undertake and warrant that oiur bid was not prepared with any agreement , arrange ment,\ncommunication , understa nding, promise of undertaking with any person (including any other bidder\nor competitor) regarding i)prices; ii) methods, factors or formulas used to calculate prices; ii i)an\nintention or decision to submit a bid; iv)an intention or decision to withdraw a bid; v)the submission\nof bid that does not conform witlh the requirements of the tender; vi)the quality, quantity,\nspecifications or delivery particulars of the products or services to which this tender relates; and vii)\nthe terms of the bid, and we also undertake that we will not, prior to the award of the Contract,\nenter into or engage in any of the for,egoing.\n3. SUB-CONTRACTI G, WHEREVER APPLICABLE:\nDisclosure in case of Job/ Project C:ontracts: I/We warrant that we have duly disclosed and will\ncontinue to disclose all intended sub-contracting arrangements relating to the Tender that we are\nrequired to disclose, including those which are entered into after the Contra ct is awarded .\n4. AUTHENTICITY OF DOCUMENTS SUBMITTED FOR BID EVALUATION:\nI/We declare that the information and documents submitted along with the tender documents by\nme/ us are complete and correct and I/we are fully responsible for the authenticity and correctness\nof the submitted information and documents. I/We declare and certify that I/we have not made any\nmisleading or false representation .anywhere in the tender submitted including the annexures\nthereto .\nI/We understand that at any time duiring process of evaluation of tender or at any time after award\nof contract, if any information/ document submitted by me/ us are found to be suppressing facts/\nforged / false / fabricated / fudged or incorrect, it shall lead to forfeiture of the EMO/SD and\nPurchase I Contract Proced ure 2024 Page42of44\nPerformance Guarantee, if submitted, besides any other act ion provided in the contract including\nbanning under the extant Guidelines for Banning of Business Deali ngsof SAIL and initiat ing any legal\naction as deemed fit. Further, I/we and all my/ our constituents understand that my/ our offer shall\nbe summarily rejected.\n5. REPRESENTATION OF SINGLE/ MULTIPLE FIRMS BY THE AUTHORIZED PERSON:\nI/We hereby declare that I/we are not representing any other firm part icipat ing against this tender.\nOR\nI/We hereby declare that I/we also represent the following firm(s) participating against this tender:-\nI I\n;SI No. Name of the firm\n(Strike -off the portion which is not applicable)\n6. RELATIONSHIP WITH ANY EN PLOYEE WORKING IN PLA T / UNIT CONCERNED OR DIRECTORS OF\nSAIL I CLUDING ITS SUBSIDIARIES:\na) I/We hereby declare that the Pro pr ietor or any Partner of the Company or Director of our\ncompany has no relationship (within the meaning of Section-2 (77) of the Companies Act 2013)\nwith any employee working in Plant/Unit SAIL, Place /any of the\nDirectors of SAIL Including its subsidiaries\nOR\nI/We hereby declare that the following Proprietor/Partner/Director of our comp any (has\nrelationship (within the meaning of Section-2 (77) of the Companies Act 2013) with following\nemployee working in Plant/ Unit SAIL, Place / Directors of SAIL\nincluding its subsid iaries:-\nName of Proprietor/ Partner/ Name of SAIL employee/ Type of relat ionship\nDirector ofour company Director ofSAIL\n1.\n2.\n{St r ike-off the portion which is not applicable)\nb) I/We further declare that if the contract is awarded to me/us, I/we shall inform if any of my/ our\nrelative(s) as defined above, join/joins the Pla nt / Unit concerned or joins as Director of SAIL\nincluding its subsidi aries at any time subsequent to the award and during continuance of the\ncontract.\n7. ANTI BRIBERY MANAGEMENT SYSTEM (ABMS) DECLARATION:\nI/We undertake that we shall not give or take any financial or non- financial bribe, to or from any\none during the tender or during the execution of the contract thereaft er and if I/We notice any\nsuch incident happening, I/We shall neport to SAIL Vigilance .\n8. MINIMUM LOCAL CONTENT AS APPLICABLE & LAND BORDER SHARING REQUIREMENTS, IF\nAPPLICABLE\nI/ We declare that I/We comply with the provisions of the revised Public Procurement {Preference\nto Make In India), Order 2017 dated 16.09.2020, as amended from time to time and also comply\nwith the provisions of DoE Order dat1ed 23.07.2020 with respect to the compliance related to land\nborder sharing requirements and subsequent amendments thereto as applicable, on the date of\nsubmission of tender and at the time of Placement of Contract.\nPurchase/ Contract Procedure 2024 Page43of44\n9. CONFLICT OF !NTERE T (IF APPLICABLE):\nI/We undertake that we shall not make any improper use of information obtained from the\nPurchaser with intent to gain untfair advantage in the Tender Process or for personal gain\nincluding that of our affiliates and that I/we shall suo-moto proactively declare any conflkt of\ninterest (coming under the definition mentioned above - pre-existing or as soon as these arise\nat any stage) in any Tender Process or execution of the contract I/We understand that failure\nto do so shall amount to a violation oftbe code of integrity.\n10. I/We declare that I /We have disclosed any previous transgressions of code of integrity with any\nentity in any country during the last three years or of being debarred by any other procuring entity\nin our bid documents. Failure to do so would amount to violation of the code of integrity.\n11. I/We undertake that we have read, !Understood and accepted the General Terms and Conditions of\nContract of Purchase (SAIL-Pl) or General Terms and Conditions of Contract for Procurement of\nServices (SAIL S-1), as applicable and shall be binding on us in addition to other terms and conditions\nmentioned in the tender document.\nSeal and Signature of Authorized Signatory\nPurchase I Contract Procedure 2024 Page44 o/44",
+        "subsubheadings": {}
+      }
+    }
+  }
+}

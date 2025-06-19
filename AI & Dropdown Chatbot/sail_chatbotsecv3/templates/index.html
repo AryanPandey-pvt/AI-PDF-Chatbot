@@ -1,0 +1,365 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAIL Chatbot</title>
+    <!-- Google Fonts and Icons -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='sail_logo.png') }}">
+    <style>
+        /* Additional styles for new features */
+        .general-knowledge-toggle {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+            padding: 5px;
+
+            border-radius: 5px;
+        }
+
+        .general-knowledge-toggle input {
+            margin-right: 8px;
+        }
+
+        .feedback-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 10px 0;
+            gap: 10px;
+        }
+
+        .feedback-btn {
+            background: none;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            padding: 5px 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .feedback-btn:hover {
+            background-color: #f0f0f0;
+        }
+
+        .feedback-thanks {
+            color: #28a745;
+            text-align: center;
+            margin: 10px 0;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-header">
+                <img src="{{ url_for('static', filename='sail_logo.png') }}" alt="SAIL Logo">
+                <h1>SAIL Chatbot</h1>
+            </div>
+
+            <div class="logout-container">
+              <a href="http://127.0.0.1:7000" class="pdf-btn">Chat with 📄PDF</a>
+                <a href="{{ url_for('logout') }}" class="btn">Logout</a>
+
+
+            </div>
+        </header>
+
+        <div class="chat-container">
+            <div id="chat-messages" class="chat-messages"></div>
+
+            <!-- General Knowledge Toggle -->
+            <div class="general-knowledge-toggle">
+                <input type="hidden" id="general-knowledge" name="general-knowledge">
+
+            </div>
+
+            <!-- ✅ Mic UI (only once) -->
+            <div class="voice-input">
+                <button id="mic-btn" class="btn mic-button">🎤</button>
+                <canvas id="waveform" width="300" height="50" style="display:none;"></canvas>
+            </div>
+
+            <div class="chat-input">
+                <div id="dropdown-container" style="display: none;">
+                    <select id="options-dropdown"></select>
+                    <button id="select-option" class="btn">Select</button>
+                </div>
+
+                <div id="text-input-container">
+                    <input type="text" id="user-input" placeholder="Type your message...">
+                    <button id="send-btn" class="btn">Send</button>
+                </div>
+            </div>
+
+            <!-- Feedback container -->
+            <div id="feedback-container" class="feedback-container" style="display: none;">
+                <span>Was this response helpful?</span>
+                <button id="feedback-yes" class="feedback-btn">👍 Yes</button>
+                <button id="feedback-no" class="feedback-btn">👎 No</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatMessages = document.getElementById('chat-messages');
+            const userInput = document.getElementById('user-input');
+            const sendBtn = document.getElementById('send-btn');
+            const dropdownContainer = document.getElementById('dropdown-container');
+            const textInputContainer = document.getElementById('text-input-container');
+            const optionsDropdown = document.getElementById('options-dropdown');
+            const selectOptionBtn = document.getElementById('select-option');
+            const generalKnowledgeToggle = document.getElementById('general-knowledge');
+            const feedbackContainer = document.getElementById('feedback-container');
+            const feedbackYes = document.getElementById('feedback-yes');
+            const feedbackNo = document.getElementById('feedback-no');
+
+            const micBtn = document.getElementById('mic-btn');
+            const canvas = document.getElementById('waveform');
+            const ctx = canvas.getContext('2d');
+            let waveInterval;
+
+            // Store last response for feedback
+            let lastResponse = null;
+
+            function addMessage(message, isUser = false) {
+                const messageDiv = document.createElement('div');
+                messageDiv.className = isUser ? 'user-message' : 'bot-message';
+                messageDiv.textContent = message;
+                chatMessages.appendChild(messageDiv);
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            }
+
+            function sendMessage(message) {
+                // Get general knowledge toggle state
+                const allowGeneral = generalKnowledgeToggle.checked;
+
+                fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-CSRFToken': '{{ csrf_token() }}'
+                    },
+                    body: JSON.stringify({
+                        message: message,
+                        allow_general: allowGeneral
+                    })
+                })
+                .then(response => {
+                    if (!response.ok) throw new Error('Network response was not ok');
+                    return response.json();
+                })
+                .then(data => {
+                    // Store response for feedback
+                    lastResponse = data;
+
+                    if (data.responses) {
+                        data.responses.forEach(response => addMessage(response));
+                    } else if (data.response) {
+                        addMessage(data.response);
+                    }
+
+                    if (data.dropdown && data.dropdown.length > 0) {
+                        dropdownContainer.style.display = 'flex';
+                        textInputContainer.style.display = 'none';
+                        feedbackContainer.style.display = 'none';
+
+                        optionsDropdown.innerHTML = '';
+                        data.dropdown.forEach(option => {
+                            const optionEl = document.createElement('option');
+                            optionEl.textContent = option;
+                            optionEl.value = option;
+                            optionsDropdown.appendChild(optionEl);
+                        });
+                    } else {
+                        dropdownContainer.style.display = 'none';
+                        textInputContainer.style.display = 'flex';
+
+                        // Show feedback if applicable
+                        if (data.feedback) {
+                            feedbackContainer.style.display = 'flex';
+                        } else {
+                            feedbackContainer.style.display = 'none';
+                        }
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    addMessage('Sorry, there was an error processing your request.');
+                });
+            }
+
+            sendBtn.addEventListener('click', () => {
+                const message = userInput.value.trim();
+                if (message) {
+                    addMessage(message, true);
+                    sendMessage(message);
+                    userInput.value = '';
+                }
+            });
+
+            userInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    const message = userInput.value.trim();
+                    if (message) {
+                        addMessage(message, true);
+                        sendMessage(message);
+                        userInput.value = '';
+                    }
+                }
+            });
+
+            selectOptionBtn.addEventListener('click', function() {
+                const selectedOption = optionsDropdown.value;
+                if (selectedOption) {
+                    addMessage(selectedOption, true);
+                    sendMessage(selectedOption);
+                    dropdownContainer.style.display = 'none';
+                    textInputContainer.style.display = 'flex';
+                }
+            });
+
+            // Feedback buttons
+            feedbackYes.addEventListener('click', function() {
+                sendFeedback(true);
+            });
+
+            feedbackNo.addEventListener('click', function() {
+                sendFeedback(false);
+            });
+
+            function sendFeedback(isPositive) {
+                if (!lastResponse) return;
+
+                fetch('/feedback', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-CSRFToken': '{{ csrf_token() }}'
+                    },
+                    body: JSON.stringify({
+                        positive: isPositive,
+                        response_id: lastResponse.response_id || null,
+                        used_general_knowledge: lastResponse.used_general_knowledge || false
+                    })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Hide feedback container
+                    feedbackContainer.style.display = 'none';
+
+                    // Show thank you message
+                    const thankYouDiv = document.createElement('div');
+                    thankYouDiv.className = 'feedback-thanks';
+                    thankYouDiv.textContent = 'Thank you for your feedback!';
+                    chatMessages.appendChild(thankYouDiv);
+
+                    // Remove thank you message after 3 seconds
+                    setTimeout(() => {
+                        chatMessages.removeChild(thankYouDiv);
+                    }, 3000);
+                })
+                .catch(error => {
+                    console.error('Error sending feedback:', error);
+                });
+            }
+
+            // === Mic waveform animation ===
+            function startWaveform() {
+                canvas.style.display = 'block';
+                let t = 0;
+                waveInterval = setInterval(() => {
+                    ctx.clearRect(0, 0, canvas.width, canvas.height);
+                    ctx.beginPath();
+                    for (let x = 0; x < canvas.width; x++) {
+                        const y = 25 + 20 * Math.sin((x + t) * 0.05);
+                        ctx.lineTo(x, y);
+                    }
+                    ctx.strokeStyle = "#007BFF";
+                    ctx.stroke();
+                    t += 2;
+                }, 50);
+            }
+
+            function stopWaveform() {
+                clearInterval(waveInterval);
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                canvas.style.display = 'none';
+            }
+
+            micBtn.addEventListener('click', () => {
+                // Get general knowledge toggle state
+                const allowGeneral = generalKnowledgeToggle.checked;
+
+                startWaveform();
+                fetch('/voice', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-CSRFToken': '{{ csrf_token() }}'
+                    },
+                    body: JSON.stringify({
+                        allow_general: allowGeneral
+                    })
+                })
+                    .then(res => res.json())
+                    .then(data => {
+                        stopWaveform();
+                        // Store response for feedback
+                        lastResponse = data;
+
+                        // Show what was recognized
+                        if (data.query) {
+                            addMessage("🎤 " + data.query, true);
+                        }
+
+                        addMessage(data.response, false);
+
+                        // Handle dropdown options if present
+                        if (data.dropdown && data.dropdown.length > 0) {
+                            dropdownContainer.style.display = 'flex';
+                            textInputContainer.style.display = 'none';
+                            feedbackContainer.style.display = 'none';
+
+                            optionsDropdown.innerHTML = '';
+                            data.dropdown.forEach(option => {
+                                const optionEl = document.createElement('option');
+                                optionEl.textContent = option;
+                                optionEl.value = option;
+                                optionsDropdown.appendChild(optionEl);
+                            });
+                        } else {
+                            dropdownContainer.style.display = 'none';
+                            textInputContainer.style.display = 'flex';
+
+                            // Show feedback if applicable
+                            if (data.feedback) {
+                                feedbackContainer.style.display = 'flex';
+                            } else {
+                                feedbackContainer.style.display = 'none';
+                            }
+                        }
+                    })
+                    .catch(err => {
+                        stopWaveform();
+                        console.error(err);
+                        addMessage('Voice input failed.');
+                    });
+            });
+
+            sendMessage('start');
+        });
+        chatMessages.scrollTo({
+    top: chatMessages.scrollHeight,
+    behavior: 'smooth'
+});
+
+    </script>
+</body>
+</html>
